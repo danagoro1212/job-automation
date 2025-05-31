@@ -1,0 +1,1248 @@
+2025-05-31 14:01:36,660 INFO: 🌐 Opening browser and checking login status...
+2025-05-31 14:01:40,430 INFO: ✅ Logged in successfully
+2025-05-31 14:01:40,430 INFO: 
+🌐 Navigating to: https://www.linkedin.com/jobs/search/?keywords=automation%20student&location=Israel
+2025-05-31 14:01:42,512 INFO: ✅ Job cards detected. Beginning scroll and pagination...
+2025-05-31 14:01:52,753 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:01:52,774 INFO: 🔎 Found 7 job cards
+2025-05-31 14:02:06,655 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:02:06,662 INFO: 🔎 Found 7 job cards
+2025-05-31 14:02:06,689 INFO: 🔹 Intern - Support Engineer - SAP User Engagement Services
+Intern - Support Engineer - SAP User Engagement Services with verification – SAP
+🔗 https://www.linkedin.com/jobs/view/4204870148/?eBP=CwEAAAGXJgE6X1WnDGSLzN9eJ1VXw8KQTxE-gAlJZKBDPbBfQAoqBDc75EsHMecSsWYXKf09Fqm2YDVw7qcw1G7lblQ9S3-MHIDdAXh2_ifoU0pfSAGiWjfkX2WRZs9r-vEr7A8mLR_gcw9cDWRq-VGLBwW5MEXham-oD9YCRCPH_LAUmPny-1LSjuRwdlA9HG6JHLYhVmxsA6zYIG__HUpDkLbIMDmV7Iwe0Bc5DVZTPd9rLYrywZ_FKN15d_glkZtKMjRXgjwbVGpjicep81n6Oen85C2KsDh9536bvSTOhRxsqPKpcoNdtUk0oWcQPxzoAlCqajNJs-lWbuJ2VXtLDdpwJw77ivFUubXNd-fy_q-Bb8Yhavdj7GceMv1ULwOcAf-6efgPP1HU4QHsxAgmaCp20mNk-tJM7iS9yX1q1W0j1x_lcgpEEPb29KJkMENXCiaKlQY8SqVw54pV0gbZqOZCmyhF8AVSKQBnqZ6Zq1KrM2fRHEGdppn8qbcq0Y2ALvoDSsM&refId=IcoMJyFQOgyCiT7Jg1%2FxFA%3D%3D&trackingId=Tsk9cJB%2F2iEFQRFlOvF2bg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:21,388 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:02:21,401 INFO: 🔎 Found 7 job cards
+2025-05-31 14:02:21,429 INFO: 🔹 Junior Marketing Analyst
+Junior Marketing Analyst – Persona.ly
+🔗 https://www.linkedin.com/jobs/view/4232393009/?eBP=CwEAAAGXJgFfwaNHOcU3I13TOZXTXmtT25xu4uvuYjwTII83PbR8KScltrlBkaI_sXrIYBVR1DEr90-En55G2LAiX6UmzWaINI9B1i8hLN9qAxjt7A9t9f4nuz4dKYSlItt74qUlVivsiF8B9qB9bw7ShP5DuzWfwzZ882DaTE1Dy3IG1WHQZz6yGJanONy448WxFVEO00XAQNDk8yRFF4w9Tt419p4_-UEwV1zzCjcqGlRTl9aIMXp4C-h-GVieLcBlCo2bYc4a5t8oLqb6wheIJBCA_odrENKxTxfZi8hEg-CGwKHmMYgevd7dMZdmg7DxxCmY7yuc8jP8hTXqTV55GkP_K4IcOKRAnO6bJ0bceNnFDyfRR4VyjoKeojxstnpyroN8EobtdsC4y-sDXba2CTXRQoFXToYLxtVgLOMUqjLgOvvZRxURkcpDvGHPnKez-uw5s5Og2x-A7K8r3Q512Lx_VY4LQdIuq4eWrZbmhgO322zIeoVGmEQI7V6CSM3ASf5fFtv60g&refId=1AF519rBqv%2FC1Sywm9f8Cg%3D%3D&trackingId=WPuWxFcRoBXtjpPxKtg4jQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:22,312 INFO: 🔹 Entry Level Penetration Tester
+Entry Level Penetration Tester – Clear Gate | Cyber Security & Research
+🔗 https://www.linkedin.com/jobs/view/4225643197/?eBP=CwEAAAGXJgFfwW89yydbV9pAcyufN_5rPX4wQzJQgfKsNgsv_mG9PVs3v-Wd9I9OkI9OvPBTEOUBqoQDcbDH6ASJ5WuQk6UEiwRlIHw5q6twTdycPb3138UG1KJK18mLGURC43Z7KZdQ4o95rkjt6C3fkOayQ3dr3NlwzGF7tdyuXNYolZ8uPwFVRU-0vofcG5JRKSESCljLvFAlWKyWBikHaTaZSgWo3gHw31OHlPMOsjeOj_czHBjYMWHUyk-6DbDibwaAwQgVfhhOIC-ROIjdzV6nFPDzYFyb0wdshVZjQfSFNRWL14FJCZslP8KqO5968DppRe_VMioTH_xzdzCWCNiETSF8IKkZk-AJJ35bX1WBoCM0fsOAgdp1oWeaokoz2WaG8yifkZaYcv2_R_Hd-Fw4xrx_ef-i8aAB21_3A3ObliNxSDnu&refId=1AF519rBqv%2FC1Sywm9f8Cg%3D%3D&trackingId=2VKoGfUvOrdcG7PK0kLotQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:23,031 INFO: 🔹 Engineering Intern - Summer 2025
+Engineering Intern - Summer 2025 – Sefaria
+🔗 https://www.linkedin.com/jobs/view/4144599812/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1AF519rBqv%2FC1Sywm9f8Cg%3D%3D&trackingId=Q6TSNrwFGREKBag4jIzKqg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:23,784 INFO: 🔹 Skilled C++ Software Engineers specializing in Computer Vision applications
+Skilled C++ Software Engineers specializing in Computer Vision applications with verification – Asensus Surgical
+🔗 https://www.linkedin.com/jobs/view/4236675384/?eBP=CwEAAAGXJgFfwVQZ-aErAJoDKiSOUIOjxd4afkGVUAaAPoUjd_Pu1edu-B3Q715bh2k7Yzvz-cvAD_2kWkkRzJiOz-mvpmzniOH4GvWapGSwCz8qzsIwtGpNg-SkABY6vW6QP3sYVDOBSIUJDoAzregRg8zhvT1l4NyLXgKY_L4IQuaV00Rnj90ityWrkLJ5r1ANGDmbNWyYpiofQmO8BqduWysjpP7gBq9z9GrhaWvPeN0oh4TVbXROcLC9ASFDqPJvH3s4tIE4b8oheH8eObZJ8oATLfGfjW8gz5Xz8ER591SlD9zdUWvXk0uj3jnNiYK2N-t53F2zIYbC4snBafmnznx_PGALK4HF37Da8wlkkxGVtodlTwT-_nCK0_tNt-n6SqSxU5Ykx1p2NX8fmWBZ1Beitaga1tBYgJyYU3lwqf2wbIKDK-fEGoWsHcWPsBn8u-8D5I8CNj2WVZV8g3PI89-RKhhZoo97n9lR_bOYV9c9yzttqGyEkzOWeWMB79niS95ZDM7HflzhL0eI-3NNeHxqmiAK4g&refId=1AF519rBqv%2FC1Sywm9f8Cg%3D%3D&trackingId=6yXz%2F2csS%2FWAo8A2gMGwLQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:24,582 INFO: 🔹 סטודנט/ית לתפקיד שותפויות אסטרטגיות וקשרי תאגיד
+סטודנט/ית לתפקיד שותפויות אסטרטגיות וקשרי תאגיד with verification – Teva Pharmaceuticals
+🔗 https://www.linkedin.com/jobs/view/4238280722/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1AF519rBqv%2FC1Sywm9f8Cg%3D%3D&trackingId=p9kMSGHd59sqFd%2FOsmEtpw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:25,371 INFO: 🔹 סטודנט/ית שיווק לחטיבה הקולנרית של אסם נסטלה
+סטודנט/ית שיווק לחטיבה הקולנרית של אסם נסטלה – Osem Nestle אסם נסטלה
+🔗 https://www.linkedin.com/jobs/view/4227169344/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=1AF519rBqv%2FC1Sywm9f8Cg%3D%3D&trackingId=yVqgc%2FcNtxzn%2FzgmHHMDnw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:39,654 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:02:39,670 INFO: 🔎 Found 7 job cards
+2025-05-31 14:02:39,723 INFO: 🔹 noc\דרושים/ות סטודנטים/ות לתפקיד מאתגר ומקדם בתחום מערכות המידע
+noc\דרושים/ות סטודנטים/ות לתפקיד מאתגר ומקדם בתחום מערכות המידע – Unilink Ltd.
+🔗 https://www.linkedin.com/jobs/view/4233377231/?eBP=CwEAAAGXJgGZgN6W64ndgAsR2pdKaghOcqGnH5ulxAA1OhYA7-MHneYHYZXJSZr44dhTdU8zOLOQ3_WtbC6_UWJce3czpStvCuRbdE5OLMG2MKquA8yJKNRo_9n6_QVWFWarF52m4tX0izqpJO70fshNXFUpC6mYWWHSNklhx-LexEbYxpXHJSpdxJV22c3aAaP2GpulQ6Nm3GEDS6vN5C1gwWHk39a0iqATKH_0GlejYvyFzaoZocc07WxLgiTLyagemPIkVB1wYsQRy53QHTkDbJ_A-sdbtyb51cl1Ckeoza3rDTZ3oEYX71IbYNHAkVF5X7C2SHAY1cNWZd019-6TFbRZvxRTpdpXcGonrBjR--jKme580Bh-gpZt82HK0cLqrSb_YmCenfpIL5gvce0OlIt17YNMtrYTMHpaYrz6iOaUKKapiwFLkuhMCVjvBHBLQyHknkhbw-Q4nnY0_ORE2cEG1e-PH-qm5Lonlz1hlpEc5GcL32iBuz_riooSQPci_ZzaHv93FA&refId=L%2FInbpu6CT02iuv2sItL0g%3D%3D&trackingId=LD432ipddKzqseEK5yKUHw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:40,531 INFO: 🔹 Junior Business Development
+Junior Business Development – Bulls Media Worldgroup
+🔗 https://www.linkedin.com/jobs/view/4161607840/?eBP=CwEAAAGXJgGZgI6axKRBl3yjHkYT1W0rcOK-LwT3Q7CYbFW_ZQKvVKgx4HsS5DefLlWTLKPKyzV2CS6IU8sD3yCL4jshKlGOioeqPZh7XuVG9bjoBsmCea3gN0M38q9EhRWr2sGBfZ5VflwLja9O-nOW9xyEztDHdtM6VgR0I6z6MqRq08x7ZW4y_P-F19IKG-rvHcAlIb4LkvUVTeeIDcGcbhRJKp0N7kND8IINvPCzqQJW_WsEHFrzOxpq7zcpi7Ow2mkQSU_b2z8qY7z8I_w52miv3wQ9pN7uSHh0j8ncELSm6nliTEUI2cphhFiS802SVlIFL3Fyh7ffLbx2TQm8s4tiPsDI3zE-_zam2pS5hrhySkQrH3e0tBLlBdCvCd1zkDmhIYX7ZfQGmOHOfRWRcmhZzphAmyfiFcj1JJaz1XPQ5Kl4X09vjKzzSfmNNtIFruYXbwgx-um5nHw9LDD9oNdeeQoZFBj9feoN3gY4TLwIvZ3a_0LIztyQvcUpIuifLD8Oe7howWY8gFH9t9j5NNUMLyPxUX8&refId=L%2FInbpu6CT02iuv2sItL0g%3D%3D&trackingId=6i%2BGy%2B%2Bua%2F4zzYhG09cCFQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:41,408 INFO: 🔹 Industrial Engineer
+Industrial Engineer with verification – Harel Insurance & Finance
+🔗 https://www.linkedin.com/jobs/view/4225660606/?eBP=CwEAAAGXJgGZgDaAOlyKtN_3RmYPBE805p2o0EIbc2tcBTegYvgH2c0SDHtJJs0Qhlji-CQWQZ7neFGcYNKSNBuBIh8vFcWPlOiMCIiD7pw5cuFnF0WPRieDz5ZOncIh1fXtVMLnis8F8p4uGknXpHdCc6aXHAKMluk3RJNGj4dQSLRQPh0FYPWy9ZsZvSZR3jIanpIlHFfvROGpMRQArmaO9dyMx-mLlA4crOKLpVP5xyHTvpddkRE4t7FAXViQ8vfBBwNtApnYrwGgEMOPsHx0hyh0niKMC6D_FuFoGqYQapARdtUHnwli4Icmw_yTNSn95hyMCcgwRH3dnUS3xA9sIl7jcZQ-WOtWDO35HQd2rIz3-JX64r0L7KbeyZJ9NUMjvj1qAkXs00gQg3u6y25LZXN-O3A120GYq0UIuVXva3VBDoLSijieRk3Iq7opMpcKOnpx7QJVohrybNeFVAY6P2YaWE-O02BAW-pwVveJFGiQJKQFEo7i5HamTceCYYArWtYY0dpoAw&refId=L%2FInbpu6CT02iuv2sItL0g%3D%3D&trackingId=d9tPzZeFst3oeDVGZtmQcA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:55,816 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:02:55,828 INFO: 🔎 Found 7 job cards
+2025-05-31 14:02:55,859 INFO: 🔹 NOC Student
+NOC Student with verification – Gong
+🔗 https://www.linkedin.com/jobs/view/4240319086/?eBP=CwEAAAGXJgHg9hEj2edFjwF1waBRM85dlRH5q8EIelia-EH6zu3PGV0mJs1v_mEiG_9NMdPU6-P6H7NEAxNoQsEt3lHKXABoK9Lm06D1ooXhExCInREoH9o3USaH2nNRiM1sady3a4hTe94e0e0amkKzvxeT4m8XEC5ZdW28guqiW2DNprx1w1MuOPodsVhQf7uInYnwQG6dHOB6Fe6UcAjBcp0f-U_6zQPB3A7MOy8PC86ZaaTY7iXvhoPw3_hTwDhqc7uw-6eeqjh5WvcO0812u1W6TDg_-TndnhzsgZRN9Mu89SU5Jn66cxLc0_RROevp5qm_8_XhuQZJplspTUAyzqy7U9cDzE5K4C3LsZm9LOatRh-FfXfsclVjXuyTMu7FLJBRs89zNrKhX_MW0NtOx3zEt3DNw3lPwTBNDZqQzF9VCf3tGQ7460BNorFUXeB4UBmRrOlxDS8gAjR9ny89BChYPj_s0WiY8QLU5ggISgnseJv2bOfXMy8yI8EGtnfWJCHvN1BYpw&refId=ek9P%2FQyJlo7CGeTzKreB7Q%3D%3D&trackingId=bpKKbX5tfuadS0OVi%2FWAaw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:56,634 INFO: 🔹 Demo Engineering (contract to full-time)
+Demo Engineering (contract to full-time) with verification – WalkMe™
+🔗 https://www.linkedin.com/jobs/view/4193616214/?eBP=CwEAAAGXJgHg9m-CGtHwTuUXADmTIvGzh1yvFWklqvzFl7gFMBgRfDJ_6v-EUgVpBSN7rc3wxT6eb-T5gCB7vxQ04aNtis4-esi9qMl-bkYCHFlSLX2SJlGBVEoTUj0TJ0UC4vCl2Q33o96I_0Zk7cUSsakLAtIOJ1HdYDKYMUmOU_iE7jHsXnD8xrpdXZe0HLPRrxdeNvuc_oSQYyc1S9n110KaHTFZdt4nCw8iC0j6inVctdVfJn6WMF4A4B_Re7iUzr_ZkxWKpaA3eABsu48B29r8ku7o6S0d2p2vl3F-EVkv_MmCY4JkyDolkDAJcv4KKAkEDt4vpBtAQdGt6KyfJ-IhjIqNJv2f2cmvqSnrkgZC-hRGsFLAKOyJ57Yslnr-DXh6oj0rFGjVGqNHrz4HDR52y84DLXPoBx-8vuSpkO0Mbvp0hrYz0FwkaZZDOBPEdKMr_T-jxe1F2tqzTO9-r-QD--RybDUDzr82va_Q3DItAX9rppt61OSXVJFwUum_Ir85pSQ&refId=ek9P%2FQyJlo7CGeTzKreB7Q%3D%3D&trackingId=aEW4OYyDrE86L5%2F2Ns8Xbw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:57,453 INFO: 🔹 Marketing Student (full time) - Israel
+Marketing Student (full time) - Israel with verification – Sungrow Europe
+🔗 https://www.linkedin.com/jobs/view/4204361626/?eBP=CwEAAAGXJgHg9kU8fGTQRXiizUZ6x-Db0Xs1SVhiRQGxsooIW9SAbbrUt08DkKvEZpGyq_03BC_EzKAHXWQNaywEHs7IAG81FTO3d78Pw7SaX_9BBUv4ubbYJP-1yRiF8grU9-6kF4IMaHM-cDREA-OUezN5r5-xQb9baoaMtItz_k58AKP15pmQxUxsPUp5Je_gv9zhdzK3Zk_eqUeAJ9ZjUuRu-r58jKVTp0iYXIVlqFejHYp3sE9d6v-RdBUDvmAhwvB4pHJ13r-zo-RNw98VaT9WSx51NZF7rxaDjRT8tlealhhPrvqUCnJmNaPH1hLYTIiT0U_7qab_BtO_hxHlqD7LdeWveUlrakHb_F9EONPAdAT-YM_ELo57BZmLIN1tTt9EltBabC83t1AXEFVanj8_1m-PyffBURX4c9c2W34f6FbkNxIjzEJ2rHHr5vH1EsQlaW6p35orNt073DnwMxbASSZXPjjbggIQXLo8KyqBnQAbJPjM2TByUjibJYWh3UuIYRY&refId=ek9P%2FQyJlo7CGeTzKreB7Q%3D%3D&trackingId=JxAk5vobMfe40%2BSIJLJAOw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:58,204 INFO: 🔹 Junior Dynamics System Analyst
+Junior Dynamics System Analyst – abra
+🔗 https://www.linkedin.com/jobs/view/4218747336/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=ek9P%2FQyJlo7CGeTzKreB7Q%3D%3D&trackingId=sI1EYCWG4Ea8zT9We3IwMw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:02:58,971 INFO: 🔹 Operations Control Center Operator - Student Position
+Operations Control Center Operator - Student Position with verification – Mobileye
+🔗 https://www.linkedin.com/jobs/view/4235864208/?eBP=CwEAAAGXJgHg9l3QMEOtLXudAYknuxLj1mLvySA6_U3Xnd-vc61gJWdPM4V-QPal-wNxwxe79q5C1abX7TXnDBIO-k_fT22tWHtqWUHiVwli9tfO6vsXBN0G5nZkLdcjo2fIh3vM1v2gKEJRhp4Edm51Fgy2T5Rgz8BGebnts6RxIJPpBTJW0FYBOCrHtWRDwaheFoYH956Ozh3_ai72orxbGqHA0k88HPXAwvueIBMAtsUNDUCcxENtkLxO3klVndoz-rCSeCdXcq-29lHOfCkJEhOQoZy7wpBmVY5it1NEFQPU21gK2p_J_G-aAVOxmBybkDOSGgbqQTcopwS4rx4zDdEEDiSuWGZwYjqLPSvEHnMg3UzdT0Af7BpI5zazTSHZAAssWoYoBUJBnlSZCo_qfJHTPcPn1hPlbssSQ-PqaxKDRoqB0FYeZZyQidd8ZqAh937kot12T21XuwXmB8z7OvXZydZrIFfN34tRZmCC763Eq2JncAH5ip-eBRW8z-ZaOQsSvGjyjQ&refId=ek9P%2FQyJlo7CGeTzKreB7Q%3D%3D&trackingId=jnYZnaXBofhY1Mch7Lqi%2Bw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:13,314 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:03:13,322 INFO: 🔎 Found 7 job cards
+2025-05-31 14:03:13,356 INFO: 🔹 Marketing Student Position
+Marketing Student Position – BIGVU
+🔗 https://www.linkedin.com/jobs/view/4237213420/?eBP=CwEAAAGXJgIfqOt6-mRdPI-qfKjp9QD7uUuv7b0eY6ZmJE8AuWzbwaJAt_HbX7SBQiAYMFUEW-ZrGIlUBrPcqsrqqn9jZz3XDc5qNgTTemDfN1Qd2kqCMpFGpuVdu9uthisbVP70bIzbXXAozqqyr1GxemDwnbvfr2zJNqRCWNWxPPjPVrY0bEJul0oquzrt0u1AMCeKCF0EiSUXRrMYWkJ1QftW9GC1H1UK1o3gqWiUqelpIfxKQWMUJXCjezDDHFVcf0Tg2810MBzX2EmIR5kcoA_8A6K7AOWhdi1CSd7DSzJcU62mgp0Kc6NEb6AodKC_UJYuE8vgFBJC7_GITtgGghi2eTIeCtEVZQHrrdqm_Q3RtGx-GlRJJ-ZxnHX6NVE2Om3dT1nmeot2Pbr3CFHnly6j6ud8feKB9vykiNv1_UcHDlMHo8lPw-OHR9Ev_mVUX5ig_lO9upvyVJY8Nok0wv60-vrzDI7pn--XwZKS0_GiJR2aQUzNNMWfijOceU_USpgY4gsyVczhDprlSE6RsO4bNM8&refId=f0cripXvSjFff0ZN8KzvGQ%3D%3D&trackingId=SNefpFSqJKQbqMzV7HVteQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:14,149 INFO: 🔹 Junior Financial Analyst
+Junior Financial Analyst – Prometheus Financial Advisory
+🔗 https://www.linkedin.com/jobs/view/4217585986/?eBP=CwEAAAGXJgIfqAKxR2us7loJgAjvBcpN0tPrQU53nqTkxGNuMym_Tb2BGfzFRlq4UIceHt4e9bSkD1qHCfr-TkbQnIAjJVQ1vhJxOU8Syv2NDBqHp7nLtZeR2rreeDCiR67YnjIyVbeQMdhGKcvWgAAVghDuUngJkBsLZ53ol26BBu8oocKnbF2X4zrET0-WTkUQbOF03RsVMsXFDL9uLJq_LflVkfovn5mQVxyEaFRLhCBLTVMz0A5hJt7LXbU4aizia5k1LrD-w7bZKhSwKNijdQVBIXoHWgCMkjWqyWQ8umTe7aJweyjhOEaFZ9E7m1nFqGpzkZxgeesoKsRdBFA05Exf1Qc2MJ188A9Nm-TA8lqf5ubFk6J35-zMLmjzJhy5vnVEESCLB9y1qH3HwyKfHDvq7-ssnmZR0Fa5weCx4Onuj_dvOHTZTQoi2H-EfBgG3DbA1Vqgz9nXdswIekp2A0YFE2jSTP2NmNJAqh7U8re_SFQRU9uaUTiaWrp2q95MRCWyGr8doyhPIjWN-dh8fdFaB01B&refId=f0cripXvSjFff0ZN8KzvGQ%3D%3D&trackingId=AVcXQ2BeMNmRZxhm3Bnb7g%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:14,474 INFO: 🔹 Junior Production Engineer
+Junior Production Engineer with verification – Beewise
+🔗 https://www.linkedin.com/jobs/view/4231296123/?eBP=CwEAAAGXJgIfqWRe_mXFOwEhPc_7F4V5VV3cx0qL-m1MjQfcG9CWCQrjG9UhQwQUSP_FR0yZ5j63cpr5mnw0O-Le6EOTrPt9fRxOwO7AaepCt6RikYx1ofnQOeyfT39srLM38VL-IoE7GHEV2Vj_hpJiQz2muqnCmEG_Pq9Q2yZk-eCSRgBZ0LGauAcH3lVqWtxHrZvl4AFFWmfatWYH-vxgGgctOm_Z7VWmBYRgme8I3__Fe3OZZwhSqhMOzDJ8CHFLVqSeBdthCuUNQbbmZX8kgV_2uBqjZqKROIDbxX7NX1K4SJuLRlAFagUjj59BQMFjoh0RIWauBdlgFEkhNqYfHUOtlnFT4XftCJVgMYhHaonyNPayn1aJdYNSyn0L37PHLE9ayB2pSt7U125Fql1RPRanYFoEzGAOAj3_pOOTpCI717hfX8B0zBvVr3PZUZgk5_JZE5suK0K95l_Yfc4-Hzfl-5QxIBK5NcbeN1wyWEvYIhq18ll9uJIIRclLggorxQ&refId=f0cripXvSjFff0ZN8KzvGQ%3D%3D&trackingId=q1vCUC1hX9IREEAFdzf9Ew%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:15,295 INFO: 🔹 Student NOC Technician
+Student NOC Technician – Confidential Careers
+🔗 https://www.linkedin.com/jobs/view/4154546104/?eBP=CwEAAAGXJgIfqZihGpYyhwyvy9W0XgZQFn2hyoJVFv-tIg16ZtOIHChiowlXGif-JHweT_bcYzLO4lk6D7GiAFoivy-PzeJNGhpp2fht8zEGv-XFdoxRwhcbkoymPz6idT3IiC7TVaW2ctUdOi9XHr28ffSD5hXvpJIhmH6zlvK2umNkUCyNnHS2qYIKBb80fS_u_Lb228RpKp7UfBWBfnV8dIcCbj2dMX33APVfRYkxWvzZIuI5Az09rhC1txCe44avq1iSjKl3dsfoZplElfzj9YhzWc6UhiARTx_Ng-FlNeMWT-UPpByjPz-NSOU_h6KYK-XWq7jRBLE_IFkrSHtrheafTA7CeqGENJDa_lKBJjnTILRwJkT8aGT_wIGuoPmKG1dwuf-uux6SXDm6Yx6-33Tt56aQ57WVbb99nA5GPPiJc-Yc-LbBL1wdYqp3F9EuOaRoc7GFcohMlLR-1pv0Q2oIIihPHnmXvzhXfGR6UdCm4s49Vb9lDRZslstqgZGApe2Fy2s&refId=f0cripXvSjFff0ZN8KzvGQ%3D%3D&trackingId=4nH6IqswaWuuLasshk%2B9cg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:16,046 INFO: 🔹 Production Line Development Support Engineer
+Production Line Development Support Engineer with verification – Galil Software Ltd.
+🔗 https://www.linkedin.com/jobs/view/4235860518/?eBP=CwEAAAGXJgIfqcoR_50wCT--6BwzSZd66OQpF5yPh8mCdZwhd11k1HIinQyjeBR18pt0yoUqlLA7McVQq7ex-k2Km5YaF1IsL8XHH_7PI4JmYH2jxYybwF3yfz4F3J0BgB3PEmC7AuYc8RpykJEtCRnb-hk0E9Qz13A8JIT1hUeB97bKvpk8da-HCgkaqJcptkPeMzizj7_DjtKJGA_-fT4wmwK9xew4aIACriqOC2aM5_Or6uvJh-A43FboH_MGC_wGoosG6doGBOO64NOfsoYnevFUr98LH5ET6phQz3jyO2zt7KU9HXTPFzWZ7uu9rmq-ouFJUrH8yWsYqXTm6s_lsBy9cGC605eZMoQVhsdvX2YUAoXeGlKPwj9J6Kr1O-aKIuSboWxu1ShivKf0s8mRfCYy0_F7o3Zf2rnNlBMVO_B0ssscFUltUW2Fym34wTo2duO23igtZcyT7w2swPPVbyzOColvD6553eQiGNPezLtvxHriGa5G4mnTBEJLcc4TvcDe&refId=f0cripXvSjFff0ZN8KzvGQ%3D%3D&trackingId=5YKiwiVqOaPlQT93EI5XXA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:30,351 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:03:30,369 INFO: 🔎 Found 7 job cards
+2025-05-31 14:03:30,579 INFO: 🔹 Graduate Program - Innovation Impact - Application Engineer (d/f/m)
+Graduate Program - Innovation Impact - Application Engineer (d/f/m) with verification – Henkel
+🔗 https://www.linkedin.com/jobs/view/4214613738/?eBP=CwEAAAGXJgJkCZGp4tHS41ilMlpLjkjFuQTmAXiMN1xfagUCQvb0ZGOrrdt_5SG-zPh2_U-ujDtFHPfclTMppn2c0r0ryb1BMKU4pcilI3_uIYDhd3hTO13jvif0hmSMMZ939UMQQtna7_8IHjyuZ_nFO7oKU8N87NThWFgzKKCfJQ03wrpbuu_2W3HRB_GDqSP1gyfUw9sicq7qFKsVYNtkzR77HikoM4MynqZNGQa2mUThjRETZKfUgeTL05ONYB4Tz4s-1L7W156RxWVdhGPkWTdj3DO6IbY4fY3ZkLYchJrn5CNfT-zuTWKisZE7v4yuKXx0DCNkp_90VMDD4TQQHethkkyoKghF0SWpfn6r9s_loP6REpBw9ycWPVqLDLqZI2nFKhLDjXD92bf0BEASVvLz_tV1YPzDcsFAQw7Bjlrf4S4C9Fgmq_v3jav7fAf0dAVdo_31LgB6x73sAru_uSGYDUwHW_GH9Av2YQBG708FbG80DaMHR-WgTN5MnIPwDwD9fJg&refId=%2FFyMbTdVssehyW899Zlt5Q%3D%3D&trackingId=PeviXwtceWsSoRiHTHlTkA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:30,923 INFO: 🔹 Production Integration Engineer
+Production Integration Engineer with verification – Align Technology
+🔗 https://www.linkedin.com/jobs/view/4214974660/?eBP=CwEAAAGXJgJkCaR0ZkOZkOQL6Pr3Opj0B99W2W9TL0WIDPg6rGwEF3jC5ougDDKsjqzY4PpgL3Q3LFyEf9F_ndCtA8KxouP5umW116dyJAXD_p9mffnyyZR_9zQkQWA3SBn_13s7xMEbM8JLSBuKMee-vgnvc9aiUWf6ciUXgQUW3Y7MW0sp_LLKbQwHR5McTa-yfuIGJKztlalPOgFEEhg3Be--WIOp3FDFT7AFncKuy-IrflSWXHfPf0Pqr-yrZIyOVIO3UpMuV7HF0d1rx4-HcxY-bz64MMZDTAUr871xNWA5WMuIBZ-GvF46qVSCCcxnplyRQRzfMJ4Ajabsqz__A7jpdPytV_9JECIUxyLj8X8j3eFXdTK-Blw38x__HVlWATl1Z-7Zec-1AQHIRxB1QAlfmMpDxpBlFsxPJM8d11os7D1rwFBn2iwf-85uK1HjB3pzq9g-Kg6SXP55yVayb2Qca-fv3wWVKYqHJiI6eVHsIyCgTyZ83W6toN120HdRDIZFVafBsQ&refId=%2FFyMbTdVssehyW899Zlt5Q%3D%3D&trackingId=9UqcUz3mZSDOR8O8Vs9uYQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:44,896 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:03:44,910 INFO: 🔎 Found 7 job cards
+2025-05-31 14:03:45,150 INFO: 🔹 Sales & Customer Operations Intern (Specialist)
+Sales & Customer Operations Intern (Specialist) – חברת שירותי אשראי פיננסית-טכנולוגית
+🔗 https://www.linkedin.com/jobs/view/4240147963/?eBP=CwEAAAGXJgKnCwvJpzrBK0VMpFA3fMX1d_eJAyix-aofgUBBVt9wVztN2ILa_061G8o23EiUWxKEoIdqSRrHfw3d5vW8yLNkZVP4j9ZR6aU34kZlDZygqBA-DWHIHqh-r341YaRfzBA6N45Miwi2L9FYVYNyNltnbgg3N1A7VuZwglf4IC1gy7ZY1vB7XU0YY9nYZLrwabt18sOfCr-VU0Nedo6tjc2mS9GkpmyZgKY95UH1kyP8g_uYDSSgzv67oyGl3MpAC9Y5gPjOBZse878iLR_SedqprnGaIv9TsnNx_B_E8hUICuajQ5Mni5Dyul_9nKL6PDSxNP4XzSnotjv5m8k0xH30B9Kw-0G57J49Qi8rbN-fXI5BqR8Ru21HJlqIFhmGwlqUcqzC9wPA57c29FGFdS6O21fLce_wfYgW2m9is7vBV9ja-51Zguk1NIfWN62xw7lV5nUdUlE&refId=WD91csK2k6FZN%2Bvt9q%2BkFQ%3D%3D&trackingId=2mVfbmUZGrRG97IN%2BKxEpg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:45,510 INFO: 🔹 Business Applications Engineer- Implementor
+Business Applications Engineer- Implementor with verification – Claroty
+🔗 https://www.linkedin.com/jobs/view/4214445035/?eBP=CwEAAAGXJgKnC7w0w6A7-DWKBbn-9sy-1CVHC2Pn3X58bkq5bT9UOtkPhuaEforDqeALk3VlvgztPjONMgZo_JJlNxwH4RRfvMAeOKXDbP4T2TWw4cqtUekUx6BHQx9qG-zSbIXO89WXZ803NjOvU8tA1_J6Cjy4z0QCgS93W-mTkqhGy-fWKJvAuj-EF5Gk1BPFBEnV3HLBhHtiOkxL7K3EQ3N0-NtkqFD14dcAYu2JOlk68DuDII87l5yTkLi-lNvLoi5IxthHdE90VyH7R3k4dc4yfCJpUOWCV7n0qQnETLUpln5rjDAbSJ7cUxSYypUIfX6DHWxO9cDCje5g-tOaPhae7_we1B0kbmnxKQzP7MdNqDZ7JP4bL9Vklv27W7ld6KwisB6IA-CLjBhf205rMAQxb1rWJ41llES6BFw5fQW8RBBkEKWerJ3-OXE4iB6xqNIG5sPIChezr4JTYJsapuBWslaA9rlgeRH8Cimkq8oY0rH7sp4mnmPh7TH6wWJJ5ccu1LrQXg&refId=WD91csK2k6FZN%2Bvt9q%2BkFQ%3D%3D&trackingId=yYCmYKnQ9fxbOgy9Km%2B%2FSA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:59,451 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:03:59,462 INFO: 🔎 Found 7 job cards
+2025-05-31 14:03:59,504 INFO: 🔹 Quality Assurance Engineer
+Quality Assurance Engineer with verification – StoreNext
+🔗 https://www.linkedin.com/jobs/view/4210228975/?eBP=CwEAAAGXJgLfivNlHzfuD9f55BOsuJxxgIZlNr-NRdYmkFeRcoLicRnbBk4t5xTMqX8z_RLUq0u8IOGv338HSwp8f5BY5N9wWP4NNOE9WAf7uuSEWyuuUH1YCp70GCj11A2HBKCgTKlJMCREG5lzXgXLaeNilcPxkwa17ya_2SJnw6Kkh4wAzYft6LHyTnDwiG7BVZU9gWi2H-XdjpW5uRK9VCtOhhTwukWl8uhJBE9Y4_AUdq-TfzwYL_MpOjvx-uFLbVMiviVHdpP-E9k9oaWEuuCZdncXudgToRWL-6869RyhQOapL-TnDAWER4gOOWo1H2bKGTOy3fJ2xHP5z_OMrS_Ywl66QMLBwND1-AFCa_0SVjgdGmngAHhkNj6Um1i7YeOfU-NNKOSPkJ9Hv5BpLf0uU3OXWQNUzk19NWzuWeS01GZ-v4fTvlnAyKmrm0I7-3M5K6bcmaupixEcTTNGV0GyhvFX9-Jd6on0e2kNWx0cvR2UZ3w&refId=Lfrl9gyirrjXhjdEtStxbA%3D%3D&trackingId=7ZuW7c6dukSeTjbOQCKC7A%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:03:59,947 INFO: 🔹 Sales Engineer
+Sales Engineer – Rapyd
+🔗 https://www.linkedin.com/jobs/view/4226203998/?eBP=CwEAAAGXJgLfilJZZ49ohGnTLWLE2EE7lE-lFZNJkggBWjfZBrlxZgFFmD9OL-JlyQ7_Bjh1uihzld9TVzy2TFxwTJO1xOHsnOKlGSBkKsgfFYIUOZJ0gFV3ubB70vPhVbNE1aoEpnIu9qM3i8Hw749Y2c6Gjk-LrhSnj2lWUUmkHRGLlSvQwGa1FLhU6J6JK8EFFld4f8_WBOZrAlkVET8GXgM-LKEZxeGEg8FY3Z0j3nx5ph-_8Zn4JK_nq9H6Mwez_dR6B5IL3YILgU3_Cyt9rRRYEpqARwtdcUVF-fgJQa8owTEnGOlaVDSm3A0ktJVzXPEAcXhyeVCVufVMfiv0v4Tmbm1meV3ViWbNz6mHs6KzTy-Oqunbnn4SQleuSPNriYB5YyLs0cEEeShnq0VlGlPoq6yC67DmqyM3Hrd8atnrrrgBxOYYInOgDwhRp9od_DNlWeuglbGHXQdSxiDWlYyP16JBkdnSXKW8LZspTM5o_iQGDQbWmwKSM8HBh7iTH79vkRSNiQ&refId=Lfrl9gyirrjXhjdEtStxbA%3D%3D&trackingId=oqxz7%2F1Jhf5EsHleTIWByw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:04:00,776 INFO: 🔹 Software Integration Engineer
+Software Integration Engineer with verification – Mobileye
+🔗 https://www.linkedin.com/jobs/view/4235858946/?eBP=CwEAAAGXJgLfis4mqCvITItTIUu4IC5ND1zeZkQ1a4Igeqb_ujGtu4XbVjQ9cjf1seJARCy1050miolh5EA2CxAf745VYC6ULaVTQ_YeoK5UzqzjwaGt8Jh57HoBhSEpnD4niIbCZbSPMxleEuFzcOdLIcd2bOIM1qvtwjHNKGegC5SocVyUj-2HZkWmFcqMQGk81zUrwpLH8tzhG1xwl4-LnleprL2lDEaxopS7kUqGatQeiGsPlG2fJcvnqJlVjPTpD3dV4xAWOm7jJxFWgyHP4FWLoiQErgZ-3Yvmd__bxS2NTqRuZAzo2CJ8S137fltcZg3aK4S_MoEOUOfqhHD_b7GTrvCjDzTunAFr5nIjzvA-nShDhXoBwdTqBPeOspXw3jMZHQI7hkPCP_FiYfeyKkkANWJ0dg-8uMlkZXZhnfnZgFaljtoKQQpp1k8NY4JYZ_KLKToSn_JNAL0adNoxIxn0RrYK1PX7aCnzVpN3fxhjsoYN7Qp173zY6z0djWXbgNh2TzHuig&refId=Lfrl9gyirrjXhjdEtStxbA%3D%3D&trackingId=p5zqwX7YqQUtw7Kjg%2BWj6w%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:04:15,407 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 14:04:15,415 INFO: 🔎 Found 7 job cards
+2025-05-31 14:04:15,648 INFO: 🔹 Generative AI Engineer
+Generative AI Engineer – Linnovate Technologies
+🔗 https://www.linkedin.com/jobs/view/4213163545/?eBP=CwEAAAGXJgMY5iXaX-Pb9MNV9n9IDg6LFqz0UAP-TTTWB5jbHA5BHebUIMZQK755jAI-AOHbf0DL80y47wnVSho1xvgAL_no4-G215a6lMbnrl5VAfIynDrzer-AXH17R70B_QV28zlWYnWoO7D42FoPOhkyqjpQz3PzJ7qLRpcE7zDEQWAWDNntly-Qsl-mGMWOMYQfqmYthuj2NlxEfo19LFeX9y-OeiMSAn16LBn9_MkN0kcGVqc7rWjJ0C1mxsb3qDb3WEa2iv3JNpK5lXWuedpwAvzkWsmIq7DSV5YVxBfBkk1o72snuroAaOozUpEkRpXY4r2JOSc7S9riIOZO1NwA3f9bVGW5kKp0juU_8NKjAxbKPZMgo572tmAufu4EDW2mPJx1mneF9j9Q-b0vf3_YiAgW3GMkktGeWUMKF2Ec0uQrO0hsOZ8WMpIZNRj3F4_GOQOaG8uA-BlM1VPI1yHKLm3oAh1AOp23RbMQBrVuVVOj1Usx&refId=xK5XQQ9s6nd53xcpInlhOg%3D%3D&trackingId=GRJiHWC3ztnjgGCkxetBcw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:04:16,516 INFO: 🔹 Automation Operations Specialist
+Automation Operations Specialist with verification – Shift4
+🔗 https://www.linkedin.com/jobs/view/4230072727/?eBP=CwEAAAGXJgMY5so0TXYKzQNvQwxRB4HKmJzdIuZZH5aLeS_8BUI6fFDAg6NW0qil1eLvyO2i0i4GQQUI5_HX08QNauNq7Wd4pCfKAAqSCHgSy0V6cEtx6j9jJrWW39eC5jmzYYdibUz8Isfa2ipYR65u5Aqn2aQF5ZEXR5HekDlEQgvV1ZxdBuwXPUzL0pRN2imVGvz5dipIsAOcf6KI8gImTbfTWQElhOWJNUNHbdjUn4TlK31x3kbIobWcxrVZdU1sZpyvojApDtQj1Zb9afItUXTtGWl37zEzhHLTfL_NU_evrEmX6ZscrNpEdev2y5u4dbN7AVaG5t0KAtsLkop0WalwA8OLjJ4KjRo0uxWsMnp_3-AeohgfmeIRk8Y-zs5_1HQOLvtG20JqI37YbX9AKY4iTAIw1F6oPTqpmr3ZCvBGgOKnYufZw3qsA8dBD-iVRBkXiWtUPdxZ3J1D9F94smjkFGdf3WrDviHtZ9hPyWLy_cURfK4m4zPe3ciF9LaYsG3ZwlE&refId=xK5XQQ9s6nd53xcpInlhOg%3D%3D&trackingId=YZGoqkYMIJ0Puv6OOWpubQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:04:17,327 INFO: 🔹 מפתח/ת RPA מנוסה ב-UiPath
+מפתח/ת RPA מנוסה ב-UiPath – Bynet Software Systems Ltd.
+🔗 https://www.linkedin.com/jobs/view/4225624002/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=xK5XQQ9s6nd53xcpInlhOg%3D%3D&trackingId=D5THQqbktQuRrz00XAz3Xw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:04:18,149 INFO: 🔹 Application Support Engineer
+Application Support Engineer – Orcanos
+🔗 https://www.linkedin.com/jobs/view/4197935235/?eBP=CwEAAAGXJgMY5tw14pfcCays6EcX3Wy9vrGUc3M9UPSQW-uxVBTPwXpBdVFAXM0X-zJPFSa4EjgX5p4u83amuA301iF_-agpZKZVmgDS11LoXVgcZJ7OB0cU3-kz_pQ008P3dfavqDi2ZlJA1zLMmKz9TQTGdjTEJzUXwqeIzy3A4N_BgTf0h1E8717aKn_o_zH8PQh2vLu3Ri2EQM4Brut6CZZF-API2KGDr4gN1s-9rD8r0-XenoXgyodxST_63FhjiPhqppCyu1Z5wjMOEN7VnOe5jsYQUEJczSA13TE8qjgMyLJEyEAm1N64TJjvPPqEV-3oC58ZWs3SY2FpIzaR9E_0qt_t5FF0bPcbKxtLfl81A0i17HSgZbPasTk0M9_JLimh0Icf16eQaFDjchMk_YmnVaqXxJDyCGhQ35gdHi9yobNkAdSId3wxrUfRlxh7TpeOURapekpZpOQkQNpBmEYg65uoJGtea33CmAkpoHbv-N8WDCAg&refId=xK5XQQ9s6nd53xcpInlhOg%3D%3D&trackingId=IMQ3C%2BnFh6gPrxzXVW7z2w%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 14:04:32,632 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:17:19,400 INFO: 🔎 Found 7 job cards
+2025-05-31 16:17:20,011 INFO: 🔹 Application Engineer
+Application Engineer – DOLAV Plastic Products
+🔗 https://www.linkedin.com/jobs/view/4228033405/?eBP=CwEAAAGXJgNWN1Gve6xrUq7TMTY1KsyPpYjjFXb76UikyZzoOy329N84CKxrDpo-CkXvIfu-QZQz0OHT4tfSEiLj70E1Zuw_2ktJa2jss8Y9UW5QU1HadGn45MPzvOskMPCLA-jRhK-enBzh6SVzXLfEdK0wkVN6EvlNUbqeDv_-GI02oe-weipGsDCzt_HrjNlJptiziDHF_EhpcsbiDMjnCEJdInYBMILeeuYejvKRsHtmDzXNvmpa0TPj3KAhYnsMVk5WkP3AwY-zNWY7qxIUvkfTvZZ6RVfyt0-Wrn-hr8SphyxaMwczXe9MtciyOsJ-SXAEMx6YPTgS2DfygW_Y5WstegA_XnaP39ID2BGPvcGjIv4f2GMOKVF-TDPUH7J67VKdUE3NXdOVKV2FoQen6XwYlFmdAQ__PBYOR3Z70jwYQac-ZTmTv904QlMPB8jaqnQ7khQq5qnIRKZ15NlZJNt0IuWBifA2oKq8GojIcx-G0WytxVzV2WddG1X2uqIKP2KinrlN64NZvkJZaPjJ9_mOyGQ&refId=Vqn2dQOIPH5OJw3qVMxtiw%3D%3D&trackingId=D3qlWdMK8i1iXhGwwQestw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:09,177 INFO: 🔹 סטודנט.ית להנדסת מערכת
+סטודנט.ית להנדסת מערכת with verification – Elbit Systems Israel
+🔗 https://www.linkedin.com/jobs/view/4234999375/?eBP=CwEAAAGXJgNWN40GztyqRv0Xtkm7bbg-52PETYrRa2AMwBA2GOvPLBkZ5mMUXYcwoO8RV1vz8_PEVDPq45ZSgINjCYFxy-itkUtlLqV662yktdGkYB_JSCDP2pnB2Cid2YCFAvuE3vUOTePK80HjS7Q3EfZUj9W9i8jvIEdZjj_Ofrg6-zms8sedGM2Ba_RCSRUsSeY0Pcgw11RVZmWYC-gSiqHw_fZjfEJjXBJNOWpRftXNE_xiTqaeBilALT_xpUwmVTd7FIFTDI4lpHI_PV_qiB139QB2VSoctX1lgeDYWeErNpg9QQnDJQ_s4ymGI3Pe-37Rp-Wo-EbUs9i_ze_r2ytqMBGgEOcOkuyek4gBp31d2Eaw10KwR53VZcDPLP5ze8oSNs0trNfy5xPqJa8WyCZleQNA9OVXMl3_R6MKAhbul3XULx43Ah_2-QAKTrCr2fsYFHWqc4Wi-DhAM9OEM3avv1mJnd3qTrzgA3RyR3GweFEr_MaUolmoTTQtu-wGq4az&refId=Vqn2dQOIPH5OJw3qVMxtiw%3D%3D&trackingId=K90RlDwUBKTwhUlEhp8Mhg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:10,010 INFO: 🔹 Student Content/Digital marketing associate - Haifa
+Student Content/Digital marketing associate - Haifa with verification – Cydome
+🔗 https://www.linkedin.com/jobs/view/4234591844/?eBP=CwEAAAGXJgNWN4nKfPabA_pcE_QxU7BOexf8BRBJtgMfw9uVVNdvJvKxH0CUsdJvigzA72hpQ0kwDartceHmol7TtbXPXYfxMoaLEK5LCeFSGTSsoPOiNcOwtToi9Vg8E4p8xZkVoDEINmHkuuBzo-knCCeVZPR7H6OT-QlsW8bfu2YQQeezoDdogt84S5hdGGqRqCMTVr7rRHrU93zsMjEJgoHkrh4AUVuRGpRz89PZe3atrjFV6XHgeQg0NzcPFUJtZbwKIrXZKEJThdmaF3kROuLOtCwVyP_z_WzXhUl4y3b-s_eH0d_UcouKW47lZGod8wKICQKFJkjWbSzX5h8O2ZYWyR3Xgir7US_EFVERrDr3sTPkrkKzmODSrrvow05pZUFKm-9sqfpTlZYvPjbQaQqdmvl_rcAG-lMJRGUQ_qSF38kQ19leDBv36Gzh-qUBTjJWzpMNHpYAP1YH-laiD8YERPzqHjjf3pRTCE7UBniAAGc9qLDY&refId=Vqn2dQOIPH5OJw3qVMxtiw%3D%3D&trackingId=0KOnuIu5q54hGzVeSPtoRg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:10,961 INFO: 🔹 מלגזנ/ית
+מלגזנ/ית with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4112532849/?eBP=CwEAAAGXJgNWN9pSN7uEkYMQYBIPpUYRq9dlcD39NIsstK-9SiXB1nfJYviT9VP_ZrbxOy7tC2iRouvOgstl7AYmJzGVal4llN3doOv3YXJ4R9wsm0HSuE9mXz3c3AQTFjazTilyLl5Fe5c38-UXZGeT88FtCJJOpYqNzEiLpwZYn3lWRMAywVNpVAGkNCOgBbvR7_sQNjLSwVz7wsC2i1iOzBKbcp4HWK4IGSVZ1v_D1nMa_vaMa6cIo8-83Q44TA2_hJ-5vK7VO0FxqWOdEeq2Z0XlTm5KEB_TD2kZ4tm9bJ_Tsv60blb16h3bfjXTlWKri0zlqHQ7Dm_1Gp7uVgeh9MPG9zwjJw47PLuDC9dxYD9G97S4gKGNl_PJMPb0aPEVGRxhbfwYcvMjs20XUxOzI34g6QbUC_fvcFGaeyfU1YSK98-pGMF596TJFiJwcKCe9P7HrRFV74CikVyiaEE6G6SEsE01TGHd_xHsgaTHI__ciT0E_4pFKN4KmGlXxLBLDvvQ&refId=Vqn2dQOIPH5OJw3qVMxtiw%3D%3D&trackingId=VZJfgxCZ%2FcnTLgFiYb1QpA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:26,094 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:35:26,122 INFO: 🔎 Found 7 job cards
+2025-05-31 16:35:26,412 INFO: 🔹 Junior Cloud support specialist- Kiryat Bialik
+Junior Cloud support specialist- Kiryat Bialik – OMC
+🔗 https://www.linkedin.com/jobs/view/4234903291/?eBP=CwEAAAGXJgOafvEz515EVvRhfQh0caPoh1C2rPug0ej4Np-w_NAPPo1nKdmdXGYLiTMoWoVJqfiUfoYYbuA6qYWSRoYskaTxuMwVm4DxJDQFHKOgy4coCWByGS_dACVRvRY55icmQ5b1hLTlH6P5S58fIVq1zW2deGT24YU2oMzosxL2B3s6OJ6PIihf3ekkxUSKLy-k-VMEr4jz-qm8IhzOZuB6jvCp9MPDSubJIrIJWIsTGZc4rGh9MRiT34D85TLOPMOCXCb-HrHcyyaurJ4um6n4G0r4EEME0WdlG12ki5UB1I9kPF5S0pMT4VfIcyn-8pM1KuILArPv_De4Z3duF5RLvBCnlIrm8NHM7geTX8uF4U6IUY7Zk_D_RB5vJYgAprjqfBJ7CcKk7zyWFptiPOUwcDzNUU5683gQwhpqmBVvqWxHmIFVjKj_p_so354fceLwJ7uVsI0Y3IhkREQlcwHd7roni45MlmjwCQqntf-34tgZkwdH&refId=2lYjrSfVKdNJl1D0lbPHwQ%3D%3D&trackingId=eW8ay0TcLAlk6AiaVGRtbw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:41,158 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:35:41,171 INFO: 🔎 Found 7 job cards
+2025-05-31 16:35:41,339 INFO: 🔹 Generative AI Engineer
+Generative AI Engineer with verification – Log-On Software
+🔗 https://www.linkedin.com/jobs/view/4216049861/?eBP=CwEAAAGXJo283G2Q40trMKYz8Y1E92DqU0AlDXtfiWYACFWEJonHrpR7B9K0NLZxcpbtLh2aeyt70QpHLhXMq8Rk0rVk7mZj_H9hRtV3evwv7KrjVbXi0gU1A8SOYlWAew413jfvnkmr-v_MHsX2bH87NkhVfHZKxGGLgXWM3MhWyiceLQtYWZX4kADm0rdS-dGlUKs9Ch2sXHN-d-tBhHWS9qn7_A8ltJtHijyK2ujEFsBXE8PYZuEr2xAdy1Kg8__5YbhUk4qi8FaqJy6lZFk6IeRhK-H4ZaV_6ou5ZSrT6MBAODODmQ_rQrLo-X7isW63Vqz_k2CXrCHkmG-r55cPxemKXlX-c9ofGVUozw16Uu1jJ7UsubVJDZM9kGQUcLfC4fNS3jpkOSsLAM5YmSlk9nRZZatuTk78zPGbWkKz1m2nBBOdP4SXrL8TGheK8I416xjC04H7lLi8yNm0vxsU6WIAnK312JM4aA1ytdIaUJipxfY8u92KTlCnpWE6QUZhyj6y&refId=Xv5HZWIDlSxIN5jIV5f8SA%3D%3D&trackingId=dCrW2OnyPPMZtDrhiUv%2FJQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:42,326 INFO: 🔹 Junior Algorithms Engineer Student
+Junior Algorithms Engineer Student – DRS RADA Technologies
+🔗 https://www.linkedin.com/jobs/view/4191762096/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=Xv5HZWIDlSxIN5jIV5f8SA%3D%3D&trackingId=mAo5eSLRUIM7ExqMuCCoLA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:56,752 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:35:56,771 INFO: 🔎 Found 7 job cards
+2025-05-31 16:35:56,866 INFO: 🔹 Intern - Support Engineer - SAP User Engagement Services
+Intern - Support Engineer - SAP User Engagement Services with verification – SAP
+🔗 https://www.linkedin.com/jobs/view/4204870148/?eBP=CwEAAAGXJo356e2vn2Bhfvqv0-65xVR7LTxVgIYS1JQAkf6Z2RZhzNA-0YuFYP_ms_U3KTUBScSuJGqXt4voVAIA0yuNQ5bAu9kle-zO9pxs4poZ5a7n2awGTKGkuLJkdnP3LJZ9xw3pHRzIWvoqjVtcieabb6tP4kQ2sxX6lRHc5g9rFhKu896F861MCU4xqdR2WcM-7IlZ4MZ51Vy9SS_lCmlBdcBdBGNKF4fw7-QSV7zIOQQmaf-eENsI_km6YTgfTqg-1SYHgzTy4YjqDZGoW6D2HVOuoahuZCmgXQTceBRrUUUetmznG4HbqyPrEps7nQcEyIaXPsGcNS-bAbA4DnEwKs0CT8_S5FHtcZHQBTLOKpDxM7fyWZ1i_zp_wS3opmlqGfioYJ8NdYAMhzR9PZs_wa2AD_x8IvzSBOSPCMBYuRZ3qXlAwnpS5GJoXbTf1qJbvuQRF8gxyayj-IJ0QD3fT3e5MPBz8hJWX9Q8g3U7cebxpTBzuqMGO6IgmM2Vt_9VcP_fKQ&refId=63FItOvhK1F0YgVEAxK3FA%3D%3D&trackingId=%2F%2Fc3XdCtgvza9obAO7oIEg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:35:57,695 INFO: 🔹 Solutions Engineer
+Solutions Engineer with verification – Entro Security
+🔗 https://www.linkedin.com/jobs/view/4212030954/?eBP=CwEAAAGXJo356ZUseUTO_VEOfLUO2uW73Z0dhNMHIxC3CbO2mG-3LT3Is4azb4LKWcJC84sZsR80o2o9hvgxwUN4n2J_I6Lvl63TBA_28OBx4LQNyGSVtG_PdxqhvH8qv4dxfLKvsBD3mb-4m-3vcXKkCu9JID27Kz6DLh4K3xfnpnAZeWuixllkQyCy8lZMj3XRQv653Y05iuNhYBaQOJSKt8regcZYWX0604E9P9g_6JX7Nm9uKNjEkfHPh4TQvx83Ls6qJh7hIr1eCGCoclLA8EyNivk1pMM_OAlETz9y154YGKYBUWvM8sFflgCa0U7lKBi_N8GyoC5-Ilrx7GxFq4IzqffAFLpA38VCDWxuZN8GcmP7Hj_Y1D51OM8HceB-3qys9iRlU_NZSlW_PZ5D77ZxH4TNuJMR2I9g5f2DwIFKVYY6O_7z8KtnzoCvW8aiVk4kThh_udGNhYKt9FEbfw-NMvi3ggUFKb7ax2AIq67lNdQeR3ZrpXezYPbH83QOYAc6GG78MzsD_sLdA2Cau_5EIoc&refId=63FItOvhK1F0YgVEAxK3FA%3D%3D&trackingId=ge620U%2FnyWyG7vLhriaHiw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:12,400 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:36:12,414 INFO: 🔎 Found 7 job cards
+2025-05-31 16:36:12,462 INFO: 🔹 Technology Recruiter - Student Position
+Technology Recruiter - Student Position with verification – SQLink Group
+🔗 https://www.linkedin.com/jobs/view/4236672059/?eBP=CwEAAAGXJo43wFxQSEMb1g0kYvfz-672uTRVxY9gi0Pt1-MhYcQt7wy-vpZ6oxZOdxuMpBrzRPRKn4mQ3tBD-55UTN44cK7wiBs7_M4SZABew0wFtwxQ1pkhHaOgYiCpUlX2_AVthAr1pWl5b9wcbn0y1QQLZirO-sECVz0kf-V476eloBAzZJ83jDdxvqdNSKPLlUQCkWoFPi9b2s6xDbbVbijtRnc-XpA7DW1jeeEPioM_R_qohTh4tBEMgbViCoiKDfHgDOtncLRAU1tT2FTm9t5vu5TW2Ay_zsrXHcn9OsOMDOUg-2ZH5Qh52-vdoL3CSYsnL-CRQ3KykaFKVTxlfRPyQt5MWfL1IyWsf2xHE1rjVntmD00cic_c6kZ-edE0jkMNqqWfFWKb-a7gh5gGuhPzXZ9Z5tNnC-RhQv0EddLiUSXtt96iA47Xc1uM2Y3XCSdzPbbMwhdXgXF5l1kfj2Vv0LnUUtnk7XzBAnrB7TPHwQuFn7-3dvKBaeizUWJjLZv9EtM&refId=E6FsICMvgfFxraNP3NT95g%3D%3D&trackingId=AN5Vs6pfFwI2ZTEkxEP4Cg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:12,962 INFO: 🔹 Developer Student - SAP Build Workzone
+Developer Student - SAP Build Workzone with verification – SAP
+🔗 https://www.linkedin.com/jobs/view/4204869386/?eBP=CwEAAAGXJo43wBGnDCSe-8omfwhxuX1QMBrDVvKA0tNkW8hsocRpNQXnAo0e4UzVMhVzt9jjM4xxVOmc3v1nkS22lzTA_fSljcQxyp7DVbeupKFV3s1YrGIiTbXBbozEF10k1LCl4hn97tTUHL9nm-Cbn72vKFhgnkzqCt0py3oOtn06KP7osf-c38NI0koMlEnShY2S0nio9d-kZ1P96ayMhH0H2Xw8UdaL6i_HAQ_6pL8l5UzhTviF-AaiVXQbNCv57fW7lu4gS2-sVycI5HZ0K7zitzfH2uZM5SofUkwajBHTyfzczf1dXzeioOW4d0NWZFqj-hLQMPSRTG80zzNEDn1plS0vkiRIQXnrEQe2J7DdNV861cpr6boJ4_FSGS_aqhc0VZwXG4E8ox5q2fp9bVWIrWkRQknP80nl__Qwd9FaCF7jeB0vRrGrdDz_s04WkR3YVPsqzcglqeb8Kg3H4l_3tQEavfPCnVTwJO6lXkhqbxf9jq4GqQ9QzUPKRF-0LieAFll3cA&refId=E6FsICMvgfFxraNP3NT95g%3D%3D&trackingId=XeZpExwcjdjH7ehrlEh58g%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:27,229 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:36:27,250 INFO: 🔎 Found 7 job cards
+2025-05-31 16:36:27,333 INFO: 🔹 סטודנט.ית פלנר.ית תחום שירות וקבלני משנה
+סטודנט.ית פלנר.ית תחום שירות וקבלני משנה with verification – Elbit Systems Israel
+🔗 https://www.linkedin.com/jobs/view/4226403582/?eBP=CwEAAAGXJo50geM9-xjjzO8BYOecoGPTK5UcThxu82ta_rmR_Yr67vk64vhEE6gmIl4idzOd9tSUty5tWiU0ydItfgh5Ogb-zTi_qjQoc46uQSYtyjDdPwaXm4T8UOCTQjCsUyJfVHuKZodd8dpf7O4SlCuBfCD8PaJhfxKN-Ax4WFl-Zme6-Fd-1oU_bWBhKiPjQYo5PHdAyVtoDrbZk9_tj9PBNl7miJPdBeVlAMMzJ8bp5mRy0zPXuzWHQVYbJh5vYU-kqA4o1DU-BuNCv9mgcYarGyPncATRs_gvIg3OWgo1-vKXInwDcZX_hW4Zfuc-4UMRwvAKhUZzElbZSUHE6z_QRHX9nUZeMCcrrd7ir3r1kwIAqnyaXcaowLFVy6pQPTCtBqRxvQcWxrKLfYW9XcTLkPmkbgwqX7xLR0NQFySWg1py97AZf0wvZ5-9KBbsMRWoOUA6_NP94JZnrdFaExCv8NxXrRvTMGDmYrHc1nCdFE8gf3k0affIY0aMtKo&refId=zoHxrgwXv66%2BKPvS0dKw7g%3D%3D&trackingId=64HIgqyfD%2BxXj6jdcFAubw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:27,798 INFO: 🔹 Full Stack Engineer
+Full Stack Engineer – Tracknow LTD
+🔗 https://www.linkedin.com/jobs/view/4216063096/?eBP=CwEAAAGXJo50gTaAjNef6ze03C3oDWjmcV_vyV4_nKNIuJLmvNRMYy7cxbKDuW6VxPHdrU86iGLx0RHrwnWjs6g7ET2bxsPTFBuOnqcgioKtgHZTFGppqVF4DRoHU3dEJgH0wXw_O7nESY2EmUOwtg8a-EczbM0SRLSDSIidQizx4H3aVckeGtjmZABcGxnTd1JEJ-v82YZg3adh3hDrDlLFShiOAk-f2PxDKhpYmmWSNxYAqhzJBj236aYIvVOgHQHC1h6YoW2yh1Venr3KtBog8k5ULLIKuvEsS5rVDueKCWUPgKXMxB5U_XQCgKqAY-H7nvrzOfU-5vfrN7h5dMEnB-yJLyvdDrP5L-gzIojOK45Dk3cH5kdgWbBbuQRzUJ3tbn4WmgIpwMBQsDdWDz2RYSTfXh9h_41NjZDX48t5bKr5AV87d8dJUJktaCYIuQRTNUIH0N1H8QTFjibhEiROjPNNVy6-5pVpihG2kxYr1YF8SfFZmKQymva0MjD-OpTgyPtn2Go-I0Gji0vzspUdHb0g7g6ImA&refId=zoHxrgwXv66%2BKPvS0dKw7g%3D%3D&trackingId=zH9n16xlZRPIdpw%2BKl1rjQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:42,678 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:36:42,691 INFO: 🔎 Found 7 job cards
+2025-05-31 16:36:42,902 INFO: 🔹 עובד/ת הכנה מפעל הטעמים
+עובד/ת הכנה מפעל הטעמים with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4228241815/?eBP=CwEAAAGXJo6uWo_1jIn1vbyFyR-_37r5KDA0JY_IptJDsUBPC60VDkRcUSrMzXeuQaXupLOKK8oVUofVHr51e0z2WFEMFp4fxp8a7JZe6mtJhMmOQeOPvjH3MBRf2MJQPuj5B0ZFJujyOPa5k8sKPJwiIvxzu7rd0Das53fcj4pqD9EHTYoD4rKNiCbFeLzZkSPMbshDga4_IJA2e1eRWUWdSPBYzSmH1AH-p6w8pmJ_VUBZIFCwClI6CvhzFbQipJDBPcgIYXmnR-rKdbxkrfalYW6veiqM5dDPyIcQCL2xk6_TW2AI9F1kvWwCFp5LZ2fdOfv-CKNF88NqCOIFqFbtrfr0zHYYsAe4zQlLO4uiwV_NOcDgObNGeePOVcgwo6QhYVpYukGB4s9ZUoZyAKWnCHyNPtFvuBFOQgjkXGkc9HyXG2YtTZt9-nOVk2zYR2_DbRI4Sj050fylW5KeZgQV12kc7UjighZSLJMU3CvJ_wouiAmDvraXXgZnVsZH02Fq9_Jt&refId=ipM7NpO%2BCUBFIvvusOw2XQ%3D%3D&trackingId=E4zFsWB4s%2FuUJjOF0w0NoQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:43,747 INFO: 🔹 Salesforce Service Cloud Specialist
+Salesforce Service Cloud Specialist with verification – Check Point Software
+🔗 https://www.linkedin.com/jobs/view/4223540527/?eBP=CwEAAAGXJo6uWhUuWgz7xDvC6FAR1sNNOzeKFo8su7Jlww0yAa4GXKOdpuy02PBxhhUdNCVDO9vDcvVsfKZXwGzuv9zRTq0HEQHTQGpz1KggvBg07ZNIdF0_j5EpP-jDBTGUOjGBGBegE07ZMayoH9Booh8SIk_OoqVrVmvNdXSQX8xu2TGfU-0xFRMy5xzSwnEOcGGXz1jV9qbtuspW_ZbKkXh-Vpibd2y_hwBupvNnXtzgeRWbw5BeaZIPpoL2uNNHfPePpt_dSvV4Ha27UXRiYXO9BUdYTGN8nOUilOwcBhZlOeB_tu8X9_yBUAtUKZADk32Yj352PLzQB9aboLg6mImkw4uSiDbNoGN7Md7ATnK3K6Y52SLnG1zoibNade3Gulqfxj7RTPhOvFeifJIsybaIH6eUZXI9hwcrn0uNfzmKhlFEv0GTSQ6Jk1egqTnwUK8penOj9WJ2vMds3RZLIqKM_xvdjh3FWcQauK6hfoaQS4mywkIlxI62QsLWpbsMFfoqVdU&refId=ipM7NpO%2BCUBFIvvusOw2XQ%3D%3D&trackingId=b4M8j0oe6mdkHh6GDmnB8Q%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:58,454 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:36:58,467 INFO: 🔎 Found 7 job cards
+2025-05-31 16:36:58,624 INFO: 🔹 ראש/ת תחום איכות- Sodastream
+ראש/ת תחום איכות- Sodastream with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4225275297/?eBP=CwEAAAGXJo7qcLbB0nHmiuhXEWXcrQj_1ikM6NrfND2hivXUSSDthmUzBJGjBDbqP6B60AeuXi39Y1DjA2zlBjDYKg7fMPp08SV8eXibw3WjqFxkXlyzp5bC52KQ1pso9fCAh1k-cyrQ_UZVXYJNmPP2G-4WLj7odhA89fHGELy3968G47Ez0WvnNaIwB7XUb7nurZvv2Q6EMyhi6pIe8k59xjPaVVtu090suqhWoAw5ucIoJfChReTlSZUHZpfg1E7CNT6tlCtti6_P-ukBiQ2JbNTeyiA9Cu1exXokPCJHWF-01yoUFRSWWSkz6T9iylZQIB00UayAc0A1eq56E0su1whSO7GvosGsrUPnmR44g6s6eNErT6UOgDn_vjUe_oqUpXi9a5bwWQwXn8IuxlRs0BA_DRf9rZIkHdggqPi1OWejVzqButrVZNOxyz_xFivoKoJ8RJABUUcN8fB-M5V-3UGikR-iR-r_HR1LPKBqziLEOtJUUfznFH2DILXP1nVn7O5z&refId=r6x%2FghxpgY35OjgtDdxeeA%3D%3D&trackingId=DxIGI1ixwU5LLJxSDQzdXw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:59,446 INFO: 🔹 Customer support Engineer
+Customer support Engineer with verification – KLA
+🔗 https://www.linkedin.com/jobs/view/4134813609/?eBP=CwEAAAGXJo7qcDyLFrSzlISRAZrVq2GJzrBTbOYAvRvdvtgsXbbwWFFghe0t4VWYv037qx6dbuoZQD5arUQ6y3rMDelnya50gOdAVLPviLK7NFRdJWoOLJcxp_IHQmXuXhOM82pr0CbTi6WfgKywo8xeVeR0ISRNtvahItTX1TM3c74FrPH_9siORZB1yEQX7j7XZRxuU7JJY_fZ_VJwemn5SE2PQqnzvDAWnaoEEQZfMLcKx0x50YwH_77-qhGHpw833gPRNatcPE1Rva4QEy9vwQbrXQ7pyzhZ7Mffuh4uLdHMoJQCGYnXWtFknvLjcyt8Clyktme-aTjgy4cZk3kkb_sEZagc4G2yqlNTOl4l5g0AhCzgtb4Ggaq9s2ntLYTv2kQ1kI95dVZ16WA03x4z1g053TxdfM9Cie_Siopn-WU6lQGT7Q2BV7vBR7R9kkekQjPwVTtP8LcmQm7E1shOr3oNcPxEiT8uFtmJXg9_oCBpM5w9MtvKFDncbyI10kqjLtnVz1gHZQ&refId=r6x%2FghxpgY35OjgtDdxeeA%3D%3D&trackingId=L0NwnK2mMJ2v5GQa%2B6V1WQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:36:59,773 INFO: 🔹 Platform Devtest Engineer (SIT)
+Platform Devtest Engineer (SIT) with verification – DriveNets
+🔗 https://www.linkedin.com/jobs/view/4196537619/?eBP=CwEAAAGXJo7qcCETzabbpaV4LGBKttODXgXUUaXKAM_Q925TE0wavWWCdh6QxF9nvXu0OH89A4A5kaeHEoTWG_j1Mio2QsJC5Nz9IBFiHAdTkAfD8VAdyuRy7W7CtUT7FWM9co1ZBEtYYxZR5c2O4vHiAAbeoW7bdf1wM_B4LEDN0Ush16p03-QFh2-Q25QYlgv-xfxg_P2dk5cAQcC2kco9aVtVsVkOdaSpnwZdjGrc_o_0Q68dsKWQDBWBJYbcHNeO18PzgezApDnxSefJ6UtCLFCpHaIo7JGgw8cOrU9D-pOMlUszLuC16OOSl0vhUzMJJDXKXo2qqtWXPuyx9eQ1LMctr-SeJJEamOTzJ42og95CkKJYkGBGu1_mzeHp2WOXX8M4c7-8SlIcFRKPHvH-qfMfUyz85dRHhxinIdD-1XbMqD6H_TePM3UsXO6MqIDaJCMxPQDs6mLUZcFaIKEdJ96i9odfYRtConpWJAGfW2C96cGissFehGonX1k1u0EzaiFM8p8D180W&refId=r6x%2FghxpgY35OjgtDdxeeA%3D%3D&trackingId=Nye6BpHwIvY5s6TSM%2FP5KA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:00,615 INFO: 🔹 Economics -Student Position
+Economics -Student Position with verification – Rafael Advanced Defense Systems
+🔗 https://www.linkedin.com/jobs/view/4237904968/?eBP=CwEAAAGXJo7qcICCGAAv6eo3oZfJJ6A5fWRU2VR2phrkeYhijwpN2oWlWEIKwTEs3AUAdLS9t3BxPB3kSdJDo0z_GKbFldesXH_Ep_amz2J6ks_lgKAu-ZPCVqViTS58iINLZa7WLAA7OwxMT5fEJrKbZNtOKoKS7nLikpj8tZPz9O8T7QptgqeqiBWzv0HVfj4VytYYx5f0Y-mTJnvlXD_wx1ZsnNpd2rCCwwSPzuP2Osyxc26I62DjJMUjnwa-E6clq3v4FCAar-SQJJWNAbfOC_yDInCqbk9iBDRofRxuk-RCkG-jXRaNntpXNhQRdftvGn0GQc27NLF7EkRRrsf2BALmGKGP9uUrZ9b5Nfa1sxgsq9XC23CKKzGt68wOch6CWn33biJ4AmwQP1lT9WhSmge6fHVxsKOMBMJpp1fqby8-dYyWgr6hyotw4qIKzUg6wqbx-X03rJfRYd8Vuz_ZM0Qw6TvqaK5b_tJo7Q74xfbPbX5gU_rHzj3-lmkrj4hOeYlGG7Q&refId=r6x%2FghxpgY35OjgtDdxeeA%3D%3D&trackingId=zyd648WpfpQZTBvalxlu7g%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:15,380 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:37:15,392 INFO: 🔎 Found 7 job cards
+2025-05-31 16:37:15,561 INFO: 🔹 Skilled C++ Software Engineers specializing in Computer Vision applications
+Skilled C++ Software Engineers specializing in Computer Vision applications with verification – Asensus Surgical
+🔗 https://www.linkedin.com/jobs/view/4236675384/?eBP=CwEAAAGXJo8pKsVvyUVrnTHDT9i2QhK2AXXqaIoc2dyofa4OuYbQOCfVXezkSwmde6Q8AhXtvy1iWWtkna61ZxQyVjfil3Kl9Ndi3QFNr24zkMThDG5GaeCQPlwFi4dd3jyrlpjgdOVgH66IUUF7LrPxKRnsbDjQkmneQhVYywGoZmaEzPdYpb8PY64Ntnjaxs01tAok7Uh5twmBMY-HHdqdNmchSuGzpXWDSqx7_dCf08Rxi2Z3drXdqGgFLuDbCsWzOnLvENY8xMzJGhPi_JYXJTBAM6ra9VZK7W8DiZ9qDaF7MJlIU3lCTl9PI6t1t8fArKadgu5DxxsutXF_0Sb4avYg7U-GpvvKejM-kqDMNwnbwzMDI0kyKnVZJzg8rl1jO1txItF_CU_XstFsPi2wr2bV1Uid0RPwBWGYmRGfxARC0TT-ZVU24wrgVgm41YEi7E7sjqRkIAtuPRSlMElbnIrvG0TBwmFyt9Spc0x8EHPsjjkFGessknVjBlhk443M0T6_zWHOvUO61nESMnFD7zGtLgo&refId=DZieqAkjL89wxz9C31dR3w%3D%3D&trackingId=X7GBmiVLSqmE9c%2Fsrp8plg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:16,400 INFO: 🔹 מכונאי/ת למפעל הטעמים
+מכונאי/ת למפעל הטעמים with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4237352116/?eBP=CwEAAAGXJo8pKiiz293BURgu-v0D6IcuXRfty5zgXixqa_JZkDQPczbxNDvK6txaOlrXsu64mEK8CP45IsjOmC299X3ekOL8kW94SUe1raC_OWk9rjWnGAhrmoE2ms3m1ZXsX0Yi713SArS1BDEPHM55F3sxbO8NHdYOe2-0FvpWHXIS1lynxoNs1C9gbpcUaFYdOTfV3Zw-KbU7qu33tj8zkpOjXMSv0eWxKyrQCrXJMUwYlN_8I66DtjNFNN-YA4o9ROUsxE1ImF08SRWwqY1LHomUvOzcY_wctwbDiCo7JdYiOdHUm60wamzSSywgHcJNSFjFNtYKsiN0RoVqWi67aSHeh1k5PFR16cvD-WtAhnHTzmTtqQyni8BJpkDl6ZHov7U13SR4YuUoZCoROVCkL7ecKCEQSRMz_QimPLoXdIaudR7t_urF_Z7aJvXsK3x-taGFur1APeI56WcBGE4mRwKV87p_qTeR0PRiUZxDk58nJivwDwCKOAzr0xKa&refId=DZieqAkjL89wxz9C31dR3w%3D%3D&trackingId=%2BLrVRoIy4dihE9NmsZnWYA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:16,762 INFO: 🔹 Industrial Engineering and Management Student
+Industrial Engineering and Management Student with verification – Rafael Advanced Defense Systems
+🔗 https://www.linkedin.com/jobs/view/4218495956/?eBP=CwEAAAGXJo8pKru0cJ3hGMoO4TaChM3I93cbbyU2AdZH-BOp9nn_uV4_UsQ2219z4Ynjna9gvwqEqPo6TKFKKc23NwT7tkJbGAl8iqSO-svtbH2t4neEVLYTj-RanbZeD000RNCqp31HeVXOeCWgk6qqIbfzF-XLneSegucgBBuvIORJi48282FrGcv1nPB1qwZNNiDGfpDJlwhc6amIggKg4VJu7kt_ZCCaqC6BsP2ecSGFwnIOuhU263N-Li8t57-OsXcBaDHY4VgUz0MXglYkK-sCv4T2lezGgGZfLMWOr_uCNhwUc2gVLz-CpnxtAlFRh8BlX9uIWMBSaylc4fS8gbpVLCS5ektnc2lCbJkbuUIdtoFRqTzxkHqQJizovXR2nenKlG3-0IMzrpsYRVFgfMEomudhXm0pVrvlL0fEU50qVZSQlRj13SgD0NksJfxycX1WLX3ReQ-Swmm9JtrXD7_ZTlBvjvvKiPcprDDm9aZfBf2W8cGpgZ2TZyEFaHkJFrA9s61_5g&refId=DZieqAkjL89wxz9C31dR3w%3D%3D&trackingId=2L1YVDh2IqMQzRfSAuyWWQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:31,363 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:37:31,372 INFO: 🔎 Found 7 job cards
+2025-05-31 16:37:31,752 INFO: 🔹 Salesforce Developer & Implementer
+Salesforce Developer & Implementer – Confidential
+🔗 https://www.linkedin.com/jobs/view/4236665556/?eBP=CwEAAAGXJo9p1J4RZnnxIK7ozzOeKTFfM5rMhii2y3sirOHJCd0puqvPTFeOV5K-gwPKGkLll-q3fNzBoqcvOe63DACIXXFX_E4DAYfUNSx9uDjJrqS9LasWqHDWvAyHUm2cjYHb75wIFdQ8T6AAp1RvSukt3Awh8KCOaYhmSGbKv50w7ZDmVzv7A94ldKWSWQYSpoB5Z_Hb9aG3C6j6z_3Xtb1e2g0Q9FagIHAXDHk7GQoRavXB-eHptGhA4biOFR3MQMaop42PKZLXzoL77m0IqHhl8cy7y23V1EDYXOapPWu8K0D4KmGhi3B2guzJd3xCbOF6QD2eQNWpWjBZmVrHlOJDKB913EPj8dyPeGdCt2FsBsndYbA64VvqjgdYRjxb8kk011BkJN6q5zKO0ortR0sb8RXyYmqfrRzoFHhN0ddu9kz19IY4tZOh2Ku2DzR2Y-qO3eDdp4sPN8E1k493WRGkZKaR3t_z3vkG8HAZwycvVTYwPa1HZoaU21TVU99ZQ6E4U0ZQd1W_VNE&refId=AXI%2B5%2FiwLYX0FDXPiY%2BIGw%3D%3D&trackingId=71vZQ5eyD7gbyrwAuhbcjA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:32,600 INFO: 🔹 קדם/ית ייצור-מפעל הפלסטיק
+קדם/ית ייצור-מפעל הפלסטיק with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4224550353/?eBP=CwEAAAGXJo9p1HNogFZ5m57gUcWDe2DJL2WaqOs7UU46elLypypfnsAy-ZSQLFBSp5bDAN7wxo4JQmD-Tbmejr5apIV6VN1TJAe4BXsFsybfwGgErlytUn5mkYxo1muuCo84EUiSLoNGgI9ci8Ga6fp53xzaIyiJH8rh8uB-VTFDcKwLr7jqHh-aFdCjS44fJvb8k1GsnE0b4Ei3Bcmf-517kwWO5n6kaeUoYQ6HsOsnUUehyEV9KetF4GnfGivYIRuIg-qVXbHi-qvC-9gTfU0MmHhsOKcG7B8_qEk9VwqypfNulC62JGnCQBS5C_bgriVgtmvN84_k464gT8N_kWfN3zX4VXOhlWrzwjleKkYbbfnB0aXlh5jyZPoGDgkVSLSuqtYfUPq0XSXGlgxkbGU8dOonkmhYnezBqVI3cUcxiRIOmxOvppWvYo8hIOeNcZ1Ijs7et9W1EWR5sinBsXJc9pexMFqpoHyQwU079mgiwqqlW7smkvTm4-MLylqDT66EphbXZrSIWg&refId=AXI%2B5%2FiwLYX0FDXPiY%2BIGw%3D%3D&trackingId=pHMLRLZh%2F%2BdK6FBwaBxUIg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:47,421 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:37:47,439 INFO: 🔎 Found 7 job cards
+2025-05-31 16:37:47,566 INFO: 🔹 משרת סטודנט.ית - מהנדס.ת מערכת לחימה רשתית
+משרת סטודנט.ית - מהנדס.ת מערכת לחימה רשתית with verification – Elbit Systems Israel
+🔗 https://www.linkedin.com/jobs/view/4225610712/?eBP=CwEAAAGXJo-ps_983JBWQohoxILjHCNHWdbud-UQg3Exbyadfha1J65-IwmLR7mGR37EX3iTpOzSR5PoNSDr4VCet2yGPe3h5EUCMFxax9ac5PC8CrWaElY7DH00N7eA2FPl2OcMTVeZrMImHHZb567PIxqLCLcFtswddq1P3LdcN4CLjywBTMwD9-ZYXUhoQSaMtQwSaA0u08hcFX-DxH17c7oxjOKbx44trBoihQH4DUk_lQ5IF33ANboRzk49x9co6swCkbry1i6_RBUJP_CLhuPFYVba7PH7ea7exQ5KLFmeotQbBO5qgkSJKEvXAydv3VfZqz4zP1-kKT5su8PA9BwoKyeBhA2_EJpIbnaBxNYQ8ZD3M4Kho6D_BEiBbm96dlCklfPjo1sH_UvJxNQTEU8pN29gZNYdNafEFtuVdAh5BBzyvjdWtwz9_ZM_j7h5c-ZqsAgcLnGX_PBX7eHtUyrSJORUog0MsgsjsPufNMHsUopHSg4H-JYqIQC8HKR7MQShd34&refId=azoPKi5Ptv9IfiYneSuC9w%3D%3D&trackingId=cVIc6rqPjwsdsleebpwpxQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:37:48,115 INFO: 🔹 Integration Engineer
+Integration Engineer with verification – Pentera
+🔗 https://www.linkedin.com/jobs/view/4140488147/?eBP=CwEAAAGXJo-psw5faXJG-EBFmmsE989vZ-T-m_eCP_viUqmWPWsJabvNRKKUe_d3UZC0zF3XC43946OaT3Um5QTJZ6oSiYYeqX6PoCPjFFxxEi01OqSz6VoAdqQ89KrTOX3h-XLoOBOhtFYT0Cp4G36YkaTNLVe9vITavYNvbGwvvRXWk2UNZlINt1D-ckRGGlfTWsCfSV6FToUyLqGds2--bhYe02h1NrTiecT1JoiqP2eYoFjGvi1mqWB67u7PWCNcEuTEWzjmL4_EMh1hVThZJmzkHKB5a7h2udyJhOt0q_uvNEP9C673YGrtg-tiJhmAD-WXWZf25-BzB7u0ueGKSVxksgtOCsuqMsbBh0bAqFrEhcW5kmONUeU6DyeQerDdKLemSMHUmnJNzWvFUZoMtAEAgjVjdxBLVJH7YierrQMxZYNZ4QDQC94WXYB9NLz3Vgoq4YyF24xnbaOR8zd2V7iFg4bIG03GWBXa3AeCtEXdDbqmdDWZoskfGFwZwhwcxkJRbnY&refId=azoPKi5Ptv9IfiYneSuC9w%3D%3D&trackingId=dDV5WckKPe8flIc%2FrxK9%2Fg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:02,491 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:38:02,502 INFO: 🔎 Found 7 job cards
+2025-05-31 16:38:02,542 INFO: 🔹 מפעיל/ת חדר בקרה
+מפעיל/ת חדר בקרה with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4212045026/?eBP=CwEAAAGXJo_nFzkkzjJN8N1JllRkFY42nd5ZP61eF7n5TIQps69laD3dtfaRMWYLD1PHjO6F3KpW43Q4TOl80ale8_NzZzL8-ykTKSThir-xAf3TFkuuqWqKGfvQcqvmcd8IwxAUxlV-PhfDaqRZjBoZ39CdRkTK_SmXSDrzLu7o0NOXqm_cGfmNiAbEOaKXTUlhN_so-yuFPEi9-P3iLGyEORPgBlCqO6DVCQuT-p6h5iOSYpgZV07ajTx7tXTRR1EJsVTvgr1v2qMj2nch8PknhTlIXNf26uvoBlENOVLQ9XIkVdjmLHk4HSy990YAsNxHJKWc_2BSXD2P2DBOTK6pb-Sc3C9HbjmWYeGFHhg6but82TH8rA62AZmaZ8M8KirbTM_svfz-uZl5mvDdyfdXksCuqkFlfHH3cD56IbCFWd9skyy1ZjPsoNaSMlUob3WhNQ_tGu_cnvzm6UvBWJl5tj0rgeqIVUXpliTP1IfqhBhz2p_2yO0v4b-_OP9QAbk&refId=XaNrynG49WAEf414BcS8fA%3D%3D&trackingId=4B6PSBewysittWhPznjTrA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:03,465 INFO: 🔹 Project Technical Assistant (Civil Engineer)
+Project Technical Assistant (Civil Engineer) – WSP in Israel
+🔗 https://www.linkedin.com/jobs/view/4223440734/?eBP=CwEAAAGXJo_nFy35uB5nnJ_poPHnHodzk8QNHjlO7rPHvEuvV6Xz_i-JdRmu-tP1SJ_VdsFE6V_L2Xn-Bqehfh8vQeQyZQvDEX65tUoS6svIr6sbfL-VcrIyP6t_BlooZw0SB1TJmA6nJ1br3irHQ_O7UbcEXKPBZTdjgn_hE8F3HQqyoHFqHaT5CC0NF18Ciu2E1NahsHUcc3gTfcyjzk32f3nXxd0pFz7cKnm_KCeDbYgzeItR81aHahEvMKXbfe3QeHQ6CNVjYapL3_X5W_2jEePf0WEi9zsO6ag_Te1voNyj1SqhrCbQIW3P1hrlSASE-2w2a8RhbQvJm28pkEVi1BbBnfxitB8NiIo5shYQckU5AR9NG71ftOENsie1RtG1RhbiY_pOQDaHbtfyQxHUlrJ6GjnwqATN1DlFRYQ1ar-nTGrfFuzrmBV91F5tyxY4W8-ZXDf3BPVoNSo_dVggRPFsDibpjDxMju1n-YWKbR8L4-WMIGOZ1EF4mPsDDEmXlXRa&refId=XaNrynG49WAEf414BcS8fA%3D%3D&trackingId=lGNrj7xVfXajiy0kIvlW5A%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:04,318 INFO: 🔹 RF Practical Engineer
+RF Practical Engineer with verification – Rafael Advanced Defense Systems
+🔗 https://www.linkedin.com/jobs/view/4214542593/?eBP=CwEAAAGXJo_nF8XlcpFPX7ikxQEcTvKN3BUbaDaVKlucNT6tOfEA5WFPZzeYhlHWnw6zaRcG5nnu-2JSma10aplrSlnUVrvPGR2NZBkacxRn10wniP1_8stckkDKe_qvxuL_7b2fgh7R1Fn5dMSh1p9kD4kcSviC40y1vdAcPQr1QtMJfGLMzVgOOMODWL-RNBXjVEacST9B_lpQ_C3Onfzug1e3NvIgY3tmgJzqc2d2lky_A39wlDZ-vr2Fu3T9XSRJFwxdBi1mldDHEcEV521IWSlQugMe9f4kKkHvl7rZdH4bNj4eqqrFWhbIJvy6D6sZJtBXG5LoiPhRnUO0WE9UGq8ZyDlYdcp2IvtEJ4yCCXFTQmjvE6s7S8zhGkXnd2-SnxR8LksrgNcehj996jLNjgulzlDb1c-bwmvQTn5V8dqyhm_swfXpM4BCkko0jLg2xquIA33JdoCWAUEr_3oPkVqZTESC6S4dHqXvYO9i4bvIWUQAmaN9SZSylAcT_RQ&refId=XaNrynG49WAEf414BcS8fA%3D%3D&trackingId=5j%2FYqFMw2nf833RMk2%2Fy7g%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:18,446 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:38:18,453 INFO: 🔎 Found 7 job cards
+2025-05-31 16:38:18,511 INFO: 🔹 Junior+ Position
+Junior+ Position – Itzhak Barokas
+🔗 https://www.linkedin.com/jobs/view/4237412597/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=Xa5bdX16CZdf4McYDs781Q%3D%3D&trackingId=KKUXKq2k1l1W9vXvxGluAQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:18,859 INFO: 🔹 Junior Verification Engineer
+Junior Verification Engineer – Cognyte
+🔗 https://www.linkedin.com/jobs/view/4172743766/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=Xa5bdX16CZdf4McYDs781Q%3D%3D&trackingId=2KVGqIpYIkVCWkkiDkMNgA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:19,184 INFO: 🔹 DMO Engineer Bonjour
+DMO Engineer Bonjour – Osem Nestle אסם נסטלה
+🔗 https://www.linkedin.com/jobs/view/4205303670/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=Xa5bdX16CZdf4McYDs781Q%3D%3D&trackingId=gn3Uezg6TLfwQ4h6Qw%2FMdQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:19,483 INFO: 🔹 Control Engineer-Student Position
+Control Engineer-Student Position with verification – Elbit Systems Israel
+🔗 https://www.linkedin.com/jobs/view/4184186489/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=Xa5bdX16CZdf4McYDs781Q%3D%3D&trackingId=vgVPozvTjCa%2F4xD235gj0w%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:19,857 INFO: 🔹 Automation expert - building AI workflows
+Automation expert - building AI workflows with verification – VariaCode
+🔗 https://www.linkedin.com/jobs/view/4238999911/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=Xa5bdX16CZdf4McYDs781Q%3D%3D&trackingId=9kH4lCPNuCMbqENpjmSSrg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:33,749 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:38:33,755 INFO: 🔎 Found 7 job cards
+2025-05-31 16:38:33,793 INFO: 🔹 קצינ/ת בטיחות בתעבורה
+קצינ/ת בטיחות בתעבורה with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4181774761/?eBP=CwEAAAGXJpBhMCVaMX2KjAorJrmkJQw8s5BTe7Yw9knJmo0SF7JaOw0KFWcaImgq8bw4sUWKJnWhEER00A6XahNQv6N7ntIYLdxwE7cp4ZLxJzqCqKwajm4fKRx_Pvzg1DyD7_vo9RLIRL0lRogVNQpeBQgAfQLjVKWV14-pGNqBkXjABAdf53_f_6-8lCRudnMkkpYBNKIWvhvlGuBHDHBRX3haFLGEI7MebJSFAzkmiC8iLYn1Q4bZkU52eX1iJ1qHV2Bd8WQ9MCbxIKdWBTvTfn5sOqVkFxzGiQXq_5-XKoBg--_tQMGuoFI-aFo97c_ukKLFUAxO54EWMPcn1H247A2kF-8iSx-2GJgeUANUDQnN234ATSeuuftkYPgt5EHrrovnE-yjI6nF7hx7-WZoEzru6tVEv7WfSiXHSvwT34WE3RD5yXQt-9c9N-usVCVW3i0m6--0Eb8ml4IgVOxg5SCz_ZYippODaJaoBFGhzzaaYYmStOz431x5B4mFVkN4qQ&refId=eg0oM9%2BNgZpwuwV17trm2g%3D%3D&trackingId=6xJBbJlfQe7q2I1%2FaAUjZw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:34,354 INFO: 🔹 Entry-Level Tech Recruiter
+Entry-Level Tech Recruiter with verification – Log-On Software
+🔗 https://www.linkedin.com/jobs/view/4158212723/?eBP=CwEAAAGXJpBhMdULMj3-z0DwaVb_RchRwl88MXY_fXxdrZeBqpXA3bLSrSH6G9vBhZQVnO1b6r2ivhcVUqg5WYdYIjJlmjv596V-xJVS3WKr2A5sclNUhSz47IxJx_kuq5V3AQ5cK6pHvn1qvDG7XiWhIeyiSgOQxVJtBxUEPc3Bq8l6tfd9o6V0tCg6Z7IjGj_ajqdKnWHILxgkkBC8_iOT3sl7JaFTWmf23MCe0CuMLzmyp0VbKniVakTBjhPFEfUK9tkabiqb7OlhxZ9J9v1xPk1P1UNkLfJTRNoTUicmkZD-b5yJVVofnEQ4rBcb54caEyf-C6sphWRr9KMeqHls4LgoX1XTWG2-vrfEF15j5TmfJJ_Ro9aWWjIL-CqeOpzEOG9KvC1RCXhw9LBr68-Lsd1hC_-ezLg5T73s3jcWcpA04AblkaGopK0D7-J06Wwtn1OMLCa2zkYp6kjCMR2-yeTvd756Cu3ksNRPKCOicSssahOz_b4yuiaUKIiKboW995787Wfp8g&refId=eg0oM9%2BNgZpwuwV17trm2g%3D%3D&trackingId=0DI3jWl4ynOLDyBdajXF6A%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:49,100 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:38:49,110 INFO: 🔎 Found 7 job cards
+2025-05-31 16:38:49,201 INFO: 🔹 מבקר/ת איכות למפעל המתכת
+מבקר/ת איכות למפעל המתכת with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4081878458/?eBP=CwEAAAGXJpCeFdPIi13mzzDClWwIgWP09FjiCZoQYfBmHhv3QY8WCEKYp7VRMVKMMA6tN5NQ0_AcawWfhE3_5aiOL9sa5AoEdyXkrJlCIdYT1c-tpvFitYOa-iHsXCjI4mfvwTtW7illrv7lklfofCOaBV7BryImmXB9a3sQ-qW_jhxz6Mc0t_cGUc_7qxBU3VUjKKBZoHh5JDifXqJPzPbji1Mh_OdeaPxAEGUFxnTGf7-DPiWwdeagvhhORD2XN8ZSF4ddNyyiUbUVo7wi_slOsq4ox5sHZmWH5FhMTcf0ZOM_YCP2iH2ydr_I4w9h2FzJRqjzgH8owozWrK3xR_VnlHojulhiIwoSTqsMvthD9aTIH0oSVkqGcj5VhbNicCNztvO1F5Mtd6_o6cwbhpIyEYHN8xQi0rJt-Ql89ProeRLDrDkkWITp4mGWV2QtTt7Ub9cZgD9hPuW9VNMhj2Nf_LOfg1nYKCC10rmTThutRFNQAO-acfdwpH9rSxDkrCpPJQ&refId=TOlqphuAtDfqTUo3AZJFEQ%3D%3D&trackingId=hsQTKAYEM4FQlMg8VvrUhg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:38:49,685 INFO: 🔹 Maintenance Electrician
+Maintenance Electrician with verification – Check Point Software
+🔗 https://www.linkedin.com/jobs/view/4207330457/?eBP=CwEAAAGXJpCeFd9g8XU341YMhcn8PLoYxqy8daVGVu09qUBaqMOeM0O4HIvaoGiIL2F_pyyJhNs0bL9vnbKr7E6ncKkqjCB2ZEe21d1LI34N0sI_ySdPSwsAyPD5vwjMunmzaQ4CeOoHr8E3AGnzC897GaplsLt45A5MP8VaEK6fZb9ag4mooftFymsOeKoT4zmMgfB8QCmve5VCK-LwR8Aqqy1R0pjCG2jfnqFcZc5rWowHY4wHmQtio_iZ4VxUWKTphZfhnk8r1LjhyYzxZgw6vyGtfwADDEM0kHo_MXld5w_pj73KFbP3EZC4U7u6WCdG7chj2yfWvJnXAYMveCT5cTs8cGmgEMdkvbFLiQJfzjdVM66EddibUf0bdD9d6ngXphcJfrTyaYDdtvsOc9Wo9CVUcRFwdy1o3nGGaGFhlQC2d46cdhQONdOIDgCSwEo232ErAMHEMG_bnA52ALbDAPvAAXSr__t4YQUBTtFHAihn-AYOEaOm-kyK9BXY52zn3g&refId=TOlqphuAtDfqTUo3AZJFEQ%3D%3D&trackingId=RL5FzDyd0x54DeEmYEazjw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:03,827 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:39:03,836 INFO: 🔎 Found 7 job cards
+2025-05-31 16:39:03,909 INFO: 🔹 Integration Engineer
+Integration Engineer – Spinomenal
+🔗 https://www.linkedin.com/jobs/view/4195192579/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=TfroNundrGJekmZKz2kc7A%3D%3D&trackingId=HIyn3SVxAgnENPbs03ngcw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:04,249 INFO: 🔹 Integration Engineer
+Integration Engineer – abra
+🔗 https://www.linkedin.com/jobs/view/4182142754/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=TfroNundrGJekmZKz2kc7A%3D%3D&trackingId=XSddoZxniyXI3%2BL9%2BuEIrQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:04,547 INFO: 🔹 מהנדס/ת ציוד למפעל המתכת
+מהנדס/ת ציוד למפעל המתכת with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4192937617/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=TfroNundrGJekmZKz2kc7A%3D%3D&trackingId=chhHtTkRJcrSN%2B9gbKKE%2BQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:05,008 INFO: 🔹 Graduate Student
+Graduate Student with verification – Tel Aviv University
+🔗 https://www.linkedin.com/jobs/view/4236696888/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=TfroNundrGJekmZKz2kc7A%3D%3D&trackingId=HOSpDqnu8%2BR%2B8pkDk5tPzQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:19,582 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:39:19,593 INFO: 🔎 Found 7 job cards
+2025-05-31 16:39:19,736 INFO: 🔹 Automation Test Engineer
+Automation Test Engineer – Korentec Technologies By Yael Group
+🔗 https://www.linkedin.com/jobs/view/4234080925/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=NA3Xv5jz21CKijbB2oHk1w%3D%3D&trackingId=3KzYQ%2B5gm0SkPwQoLX%2FlEQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:20,082 INFO: 🔹 מהנדס.ת בד"ס משרת סטודנט
+מהנדס.ת בד"ס משרת סטודנט – DRS RADA Technologies
+🔗 https://www.linkedin.com/jobs/view/4224393392/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=NA3Xv5jz21CKijbB2oHk1w%3D%3D&trackingId=xFjuQYG%2BnTNFEVLlMOQ%2BYQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:20,393 INFO: 🔹 QA Automation Engineer
+QA Automation Engineer with verification – Vicarius
+🔗 https://www.linkedin.com/jobs/view/4240152750/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=NA3Xv5jz21CKijbB2oHk1w%3D%3D&trackingId=5%2FdS9D4g1623U8G4xlhIRA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:34,508 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:39:34,519 INFO: 🔎 Found 7 job cards
+2025-05-31 16:39:34,589 INFO: 🔹 Customer Support Tools & Automation Developer
+Customer Support Tools & Automation Developer – VAST Data
+🔗 https://www.linkedin.com/jobs/view/4113719573/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=HfGy1AJ9zpWFqAju83i0KQ%3D%3D&trackingId=GTNWaeins32TU6m%2BaeE9Bw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:34,966 INFO: 🔹 Automation Engineer
+Automation Engineer – Stealth Startup
+🔗 https://www.linkedin.com/jobs/view/4235669283/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=HfGy1AJ9zpWFqAju83i0KQ%3D%3D&trackingId=Sst7S16PUAKE%2Fb31TwVoMQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:35,270 INFO: 🔹 QA Automation Engineer
+QA Automation Engineer with verification – Checkmarx
+🔗 https://www.linkedin.com/jobs/view/4234987176/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=HfGy1AJ9zpWFqAju83i0KQ%3D%3D&trackingId=HXWoKRnv9lsMPPuzwFoXWg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:35,620 INFO: 🔹 17787 - Automation system tester
+17787 - Automation system tester with verification – Qualitest
+🔗 https://www.linkedin.com/jobs/view/4204028241/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=HfGy1AJ9zpWFqAju83i0KQ%3D%3D&trackingId=SRAndr8s2ygRc1dRwusq7w%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:35,942 INFO: 🔹 Automation Engineer - CTD
+Automation Engineer - CTD with verification – Claroty
+🔗 https://www.linkedin.com/jobs/view/4236689146/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=HfGy1AJ9zpWFqAju83i0KQ%3D%3D&trackingId=O5qFbVaxyMogvKWzSsdYXw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:39:49,928 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:39:49,940 INFO: 🔎 Found 7 job cards
+2025-05-31 16:39:50,016 INFO: 🔹 טכנאי/ת או הנדסאי/ת מערכות מיזוג וקירור
+טכנאי/ת או הנדסאי/ת מערכות מיזוג וקירור with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4068447404/?eBP=CwEAAAGXJpGL3ynLlNEXxRdVXUZ5fA9FSljpMJMC4dyGkofZECsdb5r34w2fldjH8u7a9i4aSd7UQcFgZmF7vwsehWgAookUsFZEZEc3fiP8e-PDjFJFuaVm23sEFUH9PzPTehcG46P_t7qscUrAOEo3yqYMGIlvlV1mXinED5hX7lzQnbZAQx-3pLgo88IAc3NmS0novRRs_t1FlJyGn2x-VCJ6o8dzbqh6y4Bv9gWdASM36RE9xNpZrfw_I9_iMHRLotqzdnObJS2pTjEgxPSxfUAI5PdWHD6u5_K3RM2XYIxDaEdWEfegDLD_FnOmxrs1G5SinRCrVWR0e_XGo13COFOmSzMbZcpsMgaw1Swour0cxFYbCaTG-LejUq-pburkagvxyPBoENaBkBjwTF4Db8yFF2NNZicjPrjC_gZDqNLW6ob0VY4-mayuU2-MmOndtZLImhh64u4D2h-7chMHG0kB_DpcYYk0NEu4zAgqGTrt2A6mDVKuxBEuVrOnaznmyxAC&refId=Sn7KzL85xNA9t2yqHRY46w%3D%3D&trackingId=NwbSS9p4Opa2AdixhW%2BxaA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:04,930 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:40:04,954 INFO: 🔎 Found 7 job cards
+2025-05-31 16:40:05,000 INFO: 🔹 Tier 2 Support Engineer
+Tier 2 Support Engineer with verification – Kaltura
+🔗 https://www.linkedin.com/jobs/view/4228265921/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=w10qw6jr%2BjWGkL2OKEKd1w%3D%3D&trackingId=yJMFTwu6%2BC5v2zMMtPpj9g%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:05,899 INFO: 🔹 Advanced Electronics Engineering Expertise Sought for AI Training [Vision]
+Advanced Electronics Engineering Expertise Sought for AI Training [Vision] – Outlier
+🔗 https://www.linkedin.com/jobs/view/4217861677/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=w10qw6jr%2BjWGkL2OKEKd1w%3D%3D&trackingId=KvXpeGnVZbOxHUZ6N8ikJA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:06,225 INFO: 🔹 QA Engineer
+QA Engineer with verification – Earnix
+🔗 https://www.linkedin.com/jobs/view/4192847499/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=w10qw6jr%2BjWGkL2OKEKd1w%3D%3D&trackingId=FqCTkbBICGcX2JcQvoFkGA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:20,362 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:40:20,373 INFO: 🔎 Found 7 job cards
+2025-05-31 16:40:20,527 INFO: 🔹 Application Engineer
+Application Engineer – DOLAV Plastic Products
+🔗 https://www.linkedin.com/jobs/view/4228033405/?eBP=CwEAAAGXJpIBitzw3uFth-24Cj6wH6d0ASErXQ7q8ZQIfMSyHr4MJGn35CZP07CU0kpmTAydubluVpE08FT5N4sWr9pX19jeQofIqJU0WZDJydyWZmDsPnLHjvsOUHaW_SLj0pY1YA9s6GaqggJfI0QM0tl-VEKJZOkZmn4M261T2Yn5rZff8Fwmt_o-d2EbQ5HlvB9tl4tAOMsXIGNFNsEoz3KfdFleus1dMIblhc69CAvuYU_tzURa7Z96-W4FbOcXlEOx1q5k1KC6XmBR5Zc7G5FShc5Gw7PQ57HR9K8DRAxSvM5IjOc04fVmHC6UqIXhDlaGL9Cl-5i9fkh6a9RaaJTJrLIgKwKvULtvwz8XzjMZ3Id3V1RHrOmOhtvuA1o_l18s4YbN8-pnElRNLy8O2pYNWzHKaVB3pH1qLiYktDsoeEiXtKS08wvKMGsT4BmUuGbvEZqV7h9CZmoeWDJCBFzU_pPskw1R9uLkRh9wX3TGkt5fzUVwKDOypI8WDabyzjYdKPq8LKYiW-wbxKpNiuzpVg&refId=DRaUAFyMnQWm%2BIMB6HFPTg%3D%3D&trackingId=K6uEFxf6ucdutIzE1o%2FjzQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:35,082 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:40:35,111 INFO: 🔎 Found 7 job cards
+2025-05-31 16:40:35,170 INFO: 🔹 Shopify Integration Engineer
+Shopify Integration Engineer – eko
+🔗 https://www.linkedin.com/jobs/view/4240902282/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=irHrgIsRrPuo61l%2BGVq7%2BA%3D%3D&trackingId=P2v56e%2F0%2FmEMxb6R5yVEbg%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:35,503 INFO: 🔹 Automation Development Engineer
+Automation Development Engineer – Arad Technologies
+🔗 https://www.linkedin.com/jobs/view/4238012952/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=irHrgIsRrPuo61l%2BGVq7%2BA%3D%3D&trackingId=6VnpDUuPOGkN4VAfZ2D6Vw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:36,001 INFO: 🔹 Physical Design Engineer
+Physical Design Engineer with verification – NVIDIA
+🔗 https://www.linkedin.com/jobs/view/4161201362/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=irHrgIsRrPuo61l%2BGVq7%2BA%3D%3D&trackingId=eNLdIiWvWlVSxf2rbHCEuA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:50,241 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:40:50,250 INFO: 🔎 Found 7 job cards
+2025-05-31 16:40:50,327 INFO: 🔹 טכנאי/ת מכונות הדפסה
+טכנאי/ת מכונות הדפסה with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4218498858/?eBP=CwEAAAGXJpJ26QXWo6zKThaY611Oceimyqc6EDj24SlCZpMBsjXk6uaXhpIqZUbfJyYJI1CTWTzozZ3nQhakm51itU0cv6E6usFON0kZn7FDZgmSh89-woRi9NKs3d7Y2DvzH_IBrgYpvXtJtpDei5H-4UYyxOKYiPeEllrOv75tIbOw7vFNM3b6JbSgiSUFIcHrAWg-5ewcwp3BlI_Ik6_gAHKNqJevCYeXboMEG_2BovL5FO5zyMc0P8lw-oRWGQPQWbxz28-9auWKJBY21l4wCSlFodtGUuTcydZi5lQyrcGAnHxta2WY9JmpptjlZJ_q0fBKEMALa6pRwvr4UKN8_AZqaaN9cadUVaFZn17zLvBKFw3P_RRJk9EuyS3patpswhKkDHG-zT9nW4PNKV2O_Vb845qSc4AhzqWSNIjeSCqz65l3SeJWdZvOykuoVhT3E6Dj8pKnbOPZ3InyImMAA1l1LHQvdNp61kBN71r1ZjJKtC2KQLxOWOeDVmDW02_NrRaNY4o&refId=dwwnpwuHsXL17Y35%2BRazag%3D%3D&trackingId=9lIZ5SeO8A%2Fr2FJxYxfbSw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:40:51,222 INFO: 🔹 Customer Success Engineer
+Customer Success Engineer – Dcoya
+🔗 https://www.linkedin.com/jobs/view/4230802579/?eBP=CwEAAAGXJpJ26bS5cXO4N2jqxR1qIpHuWjXSs7VzW4rR0LMbPox09fGp9QTmybhC7wRbtCHZSOx5_c-qQfVDBb0UJSuHhaEZnVgFDMslmzEMFBKrljrHILTI53AjhqmzYYwbEqUnz8ihasPyIRRz4gxNOqHIJGPH6p8uKOhTwMKzJl7c1Z6Vh1us7zAKyjTAClSEdcbaq_Lrs-keWGcqIdsb_lactTK2Y4utgW_mNsQSbECDYLX6RuTcm-Ugo6X8lBTr0IB6MRN1bEw1PmIM3YomNsQzXtIKBqJ5PfMvwCc00UggeED7P3aSp1pS7mQvlnBDztC3Sp3kVC-c52MRNHXrbImcS0DBFCAdvsTSyu-fo6YXw6yGTkikF4bXXQ9xHalreDclnbrUIpBW3u7Bkwuw-sZ2uvC0fmoMf7V6s6DCfsIxupA_3UIIsFIHYF8wzCqdUkV-EZPIa6dIlKCgjTsyMyUv7Sk_MFG3q1-KIq5m5gi8OSB2foE1A5ZH3bVWeX0NRGgGCc3mK0aIDTbXUeSu70fPJXYfDA&refId=dwwnpwuHsXL17Y35%2BRazag%3D%3D&trackingId=MnLPVFsPeTibjbcfny52oQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:05,326 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:41:05,347 INFO: 🔎 Found 7 job cards
+2025-05-31 16:41:05,614 INFO: 🔹 טכנאי/ת מכונות ניפוח בקבוקים בכיר
+טכנאי/ת מכונות ניפוח בקבוקים בכיר with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4158361064/?eBP=CwEAAAGXJpKyoyMLSfH8gYwjNtp0vm8RGmGUc9-dmB-JcIBZttVoeTHWXfuyQCkBd6ZEifXwURTplnDqQN3GOn72GL7LJ4X2TWxJkVikUkt2tfcz3H1yKxAUrKP1FfsHLshn1nPtoQLXIUd2je4iK41M1PXKkGtFN_PuFWNGRSz1FPBjZpiOmJTYUgb9RCAfBPZ8h5TogBL4d1OmaT2B-PdJ-fu_ikH3s1CBXXmWl00K7Md3nyHa2MGKDcXwgR1doH8zOFRZZcL-6r_u58FqHYDIv-5H30_9AifnvBXmHQPM3pi4G3K__jLtMzY1QDaWoe6KXAvTcblaoEmuK0HRw5sZJ4dl042hSfn-IvteTM6Vhoz30D0BMJS_4LRFDy9J_u8dr4DnEFOJsg8eNx4usCUEX9MvlMIoQxFbsAxB2CdABzSSKQL4Du8SGQC-2dBM14hv2XjTq5giNXoqfn8Mg-tgGgMRBwPlOk_W5Qp9RDdNNhIJwrIZz9_2U2bcDz9kqIr-U1-AwAk&refId=ENah7za4Q5DPDENPrEQr%2Bw%3D%3D&trackingId=xURdUNKBmtzFMWXzBqAdRw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:06,494 INFO: 🔹 Skilled C++ Software Engineers specializing in Computer Vision applications
+Skilled C++ Software Engineers specializing in Computer Vision applications with verification – Asensus Surgical
+🔗 https://www.linkedin.com/jobs/view/4236675384/?eBP=CwEAAAGXJpKyo2ReB_LjhOUmymbfxmc5gJOsjS3tKdcww2AK1mKqhomrBK1URL9s9Mbh25TyyNKC0ZlfNn4pxobIPPoc5i5jyVN6z6TuOgjZc88kymVynJMm-ucDJ9lMc1tVZ1Me2wW0tSXJTItQUWaRF6xrMGti28yomyWDY6HjMDuGMZUi2kzE25HW_bgkYrLHtMsVJ93E-8GUjm5przK3XF5JdKxoCR7ppbJkNn9X_RcCITRuzDSu_6exkBHr958xHOYnlvph2FBmBO2T_ZtX73EJn9Orfj8wvOn9Q3bRayE1phqsBrHPlDU9-t8sqrH52EDOyQO5mLfFvgSWZTNfhJ6MOcE3GWUDBmlNdjGHPAdXCpAsRvapaxZDu85IVzyNpSpomU1Cf_5du6usE4DbkKuA6fUoOV6h-dz2iDp6tDaKVQHb43n8EbCim9BOEZoxLYEgvmmjHmpX07pvlnVmZEUsTrlBaxYDihYho9VNFOdUj1uxIN-gsUkYdxpKXEPStUjmkFcxDB3cG4L2DIZrTHR9nNqHbQ&refId=ENah7za4Q5DPDENPrEQr%2Bw%3D%3D&trackingId=2VcgdFd0tk8udiy76TzKXw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:20,254 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:41:20,262 INFO: 🔎 Found 7 job cards
+2025-05-31 16:41:20,346 INFO: 🔹 Hands and Support Engineer
+Hands and Support Engineer – Natobotics
+🔗 https://www.linkedin.com/jobs/view/4196263670/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=dreJhXrYceJxADEQfNO6fA%3D%3D&trackingId=iBDihOghiVBYYl2NmAfqSQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:20,716 INFO: 🔹 DevRel Engineer
+DevRel Engineer – Odigos
+🔗 https://www.linkedin.com/jobs/view/4232428683/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=dreJhXrYceJxADEQfNO6fA%3D%3D&trackingId=NbrWhxIsIrgZVosz7rZyeQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:21,120 INFO: 🔹 Software Developer Engineer In Test
+Software Developer Engineer In Test – LSports
+🔗 https://www.linkedin.com/jobs/view/4199565717/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=dreJhXrYceJxADEQfNO6fA%3D%3D&trackingId=QwAWUVI1I%2Fvq2uAERwI%2B%2FA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:21,935 INFO: 🔹 Mechanical Design Student
+Mechanical Design Student – Arad Technologies
+🔗 https://www.linkedin.com/jobs/view/4170116032/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=dreJhXrYceJxADEQfNO6fA%3D%3D&trackingId=CuYvP64bDVcNjR83bW1dhA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:22,261 INFO: 🔹 Automation QA Engineer
+Automation QA Engineer – Foresight Automotive
+🔗 https://www.linkedin.com/jobs/view/4225347219/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=dreJhXrYceJxADEQfNO6fA%3D%3D&trackingId=H5WgeRq87h8t3kz2Rb2Wnw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:22,586 INFO: 🔹 Product & Test Engineering
+Product & Test Engineering – Chain Reaction Ltd.
+🔗 https://www.linkedin.com/jobs/view/4228426069/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=dreJhXrYceJxADEQfNO6fA%3D%3D&trackingId=gpFAhK1BqTv%2F1%2BMxak3owA%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:36,610 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:41:36,621 INFO: 🔎 Found 7 job cards
+2025-05-31 16:41:36,763 INFO: 🔹 מבקר/ת איכות למפעל הפלסטיק
+מבקר/ת איכות למפעל הפלסטיק with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4204265916/?eBP=CwEAAAGXJpMpM8NHA-ejdOxh8C0PYdiQZZKWwRd5UoHuGdDKg6Kp0Xe824_L2QQk79qgLAjvXKZw5FNL2ND8xggNh_Oz80V4-NYu9xh-nXONo2Lp6OxWqwES0T4fhLUrcIxUewVfJNXO1SAb_1RlthMVWcEdEjrOmttrLWkWZL2190Ny1m0bB4y4NE6v_X5trT8pKJ9dBKc3zTYe0vWteqphjWVgLM0bXbjvcMiLPD8IpDitpysg-pVr2dIWm6fqK3X9v5Bs0OhsdGPZNwpY0-C4W9bHKdZArIjZz8ZwuV3ev5D5s6yRWQxQ6Nlth-_nic3QPutsaBO1lGD2xGpjxVgmyyfs2krU7aT34U3L8exAnPEgy5Q9VOKrnITR83W9YIw-0J1zbp4OZMOgwOGrLaa9pH1rzmesWTWzJm_S1oWci5jewV79Cngn9LxmM5w6sc9riDEZ0UE6luh1MVoaX5j4bDPbHt2_j-g99rCwm31bHcyMe2TG5I6fo4MYQfoZibpQlPYG&refId=zLuQB4b5IR3hkOAo6HxrrA%3D%3D&trackingId=2ahoFZr9VPTn%2B6BlOnsDCw%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:37,229 INFO: 🔹 Practical Engineer
+Practical Engineer with verification – Rafael Advanced Defense Systems
+🔗 https://www.linkedin.com/jobs/view/4095890467/?eBP=CwEAAAGXJpMpM4hwXtyzuKNVcKlvZrB-vQO012U59ThfuELwwvDZqVWMGgdPMA3kn3Gc96I3sP2gTG-RvFSt0knWFLUyHO7EpYBcNEWOYgEOD79yM_-P046K1DM28ykC7n4Nn-qsmxNg_tHWrNIi_N6BoxTVOCCKIKzuhvPdBx646qBBLb_84EN7JKTeE-mN1-p3u_xuYtL-XNbGTUGJxNq8Ju2GQprsYpOquSHvGWfSdJUu9A4D0SJU-eSh-ZiFwUOStKXtMoEk8Gynx-Mwkj5nVae9M-adkT3isTR2EO_CCy0laRLiwv7PquJHE2OXHRq0THDIAUrJ_zmgCR1-1rFdVnpjxg8x-FTG4FPIGl103CLYbKGHhRXE2NNyJ_8ZsEIGYlp1sHDyUf_o-6or8I00u_NOPmelhpZKbqHf6MCJWFWyL9NSLzN7LKRede45n7QWbldIzSZnGF2zJwgB52qm5ik-b5k70Nv8kDoejus5pewaKTSMEPerzzfj7Ar4aRy4w278&refId=zLuQB4b5IR3hkOAo6HxrrA%3D%3D&trackingId=Kb%2BLaIRhblQYWuJVaj6riQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:37,617 INFO: 🔹 Advanced Electrical Engineering Expertise Sought for AI Training [Vision]
+Advanced Electrical Engineering Expertise Sought for AI Training [Vision] – Outlier
+🔗 https://www.linkedin.com/jobs/view/4217856939/?eBP=CwEAAAGXJpMpNDzM0QG2fVDMYn3Y3dRyK4tMd6dNt1SHG0yEsB9-ZWJDpj9JCvFrxKcfj-lh-5-mIMfL5Oc4zHGJ-vAVqjtGfm8qIRbuhSMGDx1-CX1OHyDHl-gYhOfWREDxaFjjtAf4GUSaem1AqrvemMgP8JOpTLyLEWxuGqfEVGDuMqrSNA_bEpMoAjKLouNz9cZH_rQne7f0WrFq3G7qOFeOJGpOyvLv0w88U8KPr-ArdaTu-0H68frTFKmsRnTzniqdL0mmED1NkFJfZGU_ikD-sbILy8mJpGFmySbgJBGkK7FvmHzvNSS-rslHMDYq-pH6goM1_HTpQgxbamxB6fJyKY4U99F8O6jRwEkvTkcNey99DLJerMe_DsbPqWYh-mYMrlnnSb95P_uZIycLndLBr5vBOPVyGelraScKRcBbHOoaULD-lpi3ijhagFjsIp6zgK3OfObGInwzg9osGDfJP5z31FX0XSXcbiAezN4N4wqS1qypvWvM5VAXOm6kcSaC&refId=zLuQB4b5IR3hkOAo6HxrrA%3D%3D&trackingId=1wsfGA7fpbKIL2Pc295hUQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:51,606 WARNING: ⚠️ Failed to scroll inside job list: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff781af6f65+78965]
+	GetHandleVerifier [0x0x7ff781af6fc0+79056]
+	(No symbol) [0x0x7ff781889dda]
+	(No symbol) [0x0x7ff7818e02ea]
+	(No symbol) [0x0x7ff7818e059c]
+	(No symbol) [0x0x7ff781933f37]
+	(No symbol) [0x0x7ff7819086af]
+	(No symbol) [0x0x7ff781930dbe]
+	(No symbol) [0x0x7ff781908443]
+	(No symbol) [0x0x7ff7818d1311]
+	(No symbol) [0x0x7ff7818d20a3]
+	GetHandleVerifier [0x0x7ff781dae26d+2926461]
+	GetHandleVerifier [0x0x7ff781da8993+2903715]
+	GetHandleVerifier [0x0x7ff781dc6aed+3026941]
+	GetHandleVerifier [0x0x7ff781b116fe+187406]
+	GetHandleVerifier [0x0x7ff781b196ef+220159]
+	GetHandleVerifier [0x0x7ff781affaf4+114692]
+	GetHandleVerifier [0x0x7ff781affca9+115129]
+	GetHandleVerifier [0x0x7ff781ae64d8+10728]
+	BaseThreadInitThunk [0x0x7fffb8397374+20]
+	RtlUserThreadStart [0x0x7fffba39cc91+33]
+
+2025-05-31 16:41:51,639 INFO: 🔎 Found 7 job cards
+2025-05-31 16:41:51,798 INFO: 🔹 מפעיל/ת מכונה מנוסה עיבוד שבבי
+מפעיל/ת מכונה מנוסה עיבוד שבבי with verification – SodaStream International, Ltd.
+🔗 https://www.linkedin.com/jobs/view/4202231188/?eBP=CwEAAAGXJpNn37SLzCGKDQUmIB-br2fV2JOz4cxTzc75Zs-GYCEygdrvKmllLbCtnXAksDfK5H1_qLC-qL6-0jqR2GkAdqReOVj7h5F4VcywSh_ZbUJEIxJOeqymDly6uWEHuaVG4EjUhOxabKPWgunS5QD7qmERG2j01Ui4c71gW56aSPf6fvqGvPQzySn-Ot-TIO5GubFPCbywtUM_LbMgBDl-UhOAZmWRC4NiHiNSXZX9-rxrG4XWnFkOp5rRHHVN1vWMXEfXhg_GWspRHsh4PBlQd947dOHxgWeNY8JxOUxd8lp1Rt_2Rr_6Pgyd0trFjHW3OYgh911phC6ELn4eBSeXqkLtsqlD0Fqjp68nI5yh5BFQVRdX9UuQdR4xxYXWROzgAerXgQS4DrsLbtL-uO4Zd-jOr_HIwTUyz6lTCVxuMT9eIO0LqoTkg-HHcqjWXufYyt5ie4bbFFf8iDEPl8batsfqktEsEZQDbj8xCLZa9YY9iJyo0-AWxUVMWB4E-Yiw&refId=5JoGJm%2FwVWIb8tNQY7IBog%3D%3D&trackingId=SMCnIT55FEL5JAVkbYSz4A%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:52,244 INFO: 🔹 Advanced Mechanical Engineering Expertise Sought for AI Training [Vision]
+Advanced Mechanical Engineering Expertise Sought for AI Training [Vision] – Outlier
+🔗 https://www.linkedin.com/jobs/view/4217864165/?eBP=CwEAAAGXJpNn38V-55VsOK3qZJMJFclqQz-VVutRMIDdg7BUPPSbCc3cWw_ePcFaYoFBxNRZ21A1Y9b4sJ923GYraIIVHQDFMc59vDtgx6ieY04XWv-7DryfYNFuDrfFZN6Bv1KSqtiGclvhrC8D-diSVNETn_qYAdjWXU9J454hP_xDLlNP-9yZ3nuQRGLWYKILqrskhVJJYN0lYkB9iPhoQJK3o-to8FVTmUFiGv0qZMAzh0WHUm3oPge2pSc42ChsDVN-jiR_KEuPbBZxSKKw_K8dANpeESzM5PiSkB76sYi6EaOez-LXRgAeoxkWUdlVElLqUSzdpLEqYVfEIav6Xdrb1HeAZwZBtTVa8Jy-cAAwcdn8DfnNNwTVaseCVFWUh_ytm4RfKF6acgTMsgEbTW81GbK5cxPTG2Yg_n9oGt9xkm6Bp1gd_CfeoW5vacku9YzVSaPSTz85Achju3iqY9iza5QotSk30dlo7KuJrvCKRkqOZtDsXWUzx9qm8bz4QhX9sMU&refId=5JoGJm%2FwVWIb8tNQY7IBog%3D%3D&trackingId=O1gkLKdq%2B8%2FyuOBNYz0rVQ%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:52,579 INFO: 🔹 Quality and Integration Practical engineer
+Quality and Integration Practical engineer with verification – Rafael Advanced Defense Systems
+🔗 https://www.linkedin.com/jobs/view/4214544121/?eBP=CwEAAAGXJpNn31h4YxS0WnLPHWxcqpAJ7DNXfruGgloqbfpe9UotyPYcnYs59k2CbPWbDKlKexOR_IfinmgSiG68SQxFp7WqXvmURGmW9GPZEIwCgxonEkzzEaeWl7tMhzPjMR9hOIrxaW2ZGvkwT97jccJR_OYWRN8TDtEaNJaHNGsvYsSyMym9SZWpq825conZ4cN5AJ0XrhanQiYTgId-X5Ob0oFyjpqOlQL-AcLTM3qYjSgkiQdyrm1MDebV2mPfsGVidiitOZ4jQzkMaXtQTdccvSCL5mUPOmRTSj-TjADzlKAj7-527Hg_t8b-jg8LSUNYF0E7dO2FCC2CdxZnHpJI52vbMB1Od8pEWaGifzsP_mqwyTImCohlmyv_vSaf4Bub-C0Eo3RJEyRdkvb5VrLVoW5w_2X1MIgkp3aK2iEzxtqrOed4K0Bp6i8pj_EC8q9xU9-f16wbINA6vEngbCimfxSvjNcU93BuLrEuu9wdxDlGEyqtSMevutg2cHmaiYZl&refId=5JoGJm%2FwVWIb8tNQY7IBog%3D%3D&trackingId=pjLl%2BX9EBPC%2BHiVjF2j26w%3D%3D&trk=flagship3_search_srp_jobs
+2025-05-31 16:41:52,889 INFO: 🔹 System Reliability and Safety Engineer
+System Reliability and Safety Engineer with verification – IAI - Israel Aerospace Industries
+🔗 https://www.linkedin.com/jobs/view/4230515124/?eBP=CwEAAAGXJpNn3wbLa4XnyCfbGJk4bC1YVYiPK4YP4nBrCJ9vpqGeXdleN75igDt1nB4_Ps8fMnyqzb9GOWMXIIuUl3kG_Drni6LGcmnV5tkHIvabprpOHs1gHu3po3cBfNyRXTRyLlpACZzk4cEqdCWL91sCxh7eY7sfVPE-GOEy86O5PtRcTfkf0FsjNhAphxLFZrWZL6RhnoB6K2nVrYuxlaWlapkn5AZBzYF9_bJgSYiC7lX7aoL3VPKdp3YiYxV_i_GRAKt7fcqdcWXatTzXEsQH--rlHhiwN8crAl6CMMvQtmaQN4G29RvbShTcxG0PRhOvaj9066TCt5F5ctLcYJdt6R9gZFmg05LBR-GWtCnklxmV5d-YJuZYSWcaTRNz3I_wUFoJZHDCbdf6dqjQJ3dNZWca32cfBhH033g4yeGW11UuPpHJ-Z4rXn2uqcNv90PKEYyHcadaWR4KJAMp_wGSq-3pt1C2vsK-yPWHWCHxC0c_NpZF1v8OynMOsKr8TXD6JoY&refId=5JoGJm%2FwVWIb8tNQY7IBog%3D%3D&trackingId=NOiG3D7Kqb6vGluDrzC7VA%3D%3D&trk=flagship3_search_srp_jobs
