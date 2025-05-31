@@ -1,6 +1,6 @@
 ﻿# LinkedIn Job Scraper – Student & Part-Time Developer Roles
 
-This is a Python automation script that searches for relevant **student and part-time software development jobs** on LinkedIn, filters them based on smart criteria, and updates a connected **Google Sheet** with only relevant results.
+This is a Python automation script that searches for relevant **software development jobs** on LinkedIn, filters them based on smart criteria, and updates a connected **Google Sheet** with only relevant results.
 
 ---
 
