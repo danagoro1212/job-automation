@@ -1,13 +1,14 @@
 ﻿import time
 import random
 import csv
+from datetime import datetime, timedelta
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-import sys
+from google.oauth2.service_account import Credentials
+from googleapiclient.discovery import build
 
 # === CONFIGURATION ===
 CHROME_DRIVER_PATH = r"C:\Users\Danag\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
@@ -26,18 +27,18 @@ def is_relevant(title: str, company: str, link: str) -> bool:
     text = f"{title.lower()} {company.lower()} {link.lower()}"
     relaxed_keywords = ["student", "intern", "part time", "חלקית", "סטודנט", "junior", "entry level"]
     dev_keywords = ["developer", "software", "backend", "fullstack", "automation", "integration", "engineer", "פיתוח"]
-    forbidden = ["senior", "lead", "manager", "architect", "מנהל", "ראש צוות"]
+    forbidden = ["senior", "lead", "manager", "architect", "מנהל", "ראש צוות", "full time", "משרה מלאה"]
 
     return (
         (any(word in text for word in relaxed_keywords) or any(word in text for word in dev_keywords))
         and not any(word in text for word in forbidden)
     )
 
-# === Scroll inside job list container using custom selector ===
+# === Scroll inside job list container ===
 def scroll_inside_job_list(driver, max_scrolls=15):
     try:
         scrollable_div = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "#main div.scaffold-layout__list-detail-inner--grow div.scaffold-layout__list > div"))
+            EC.presence_of_element_located((By.CSS_SELECTOR, "#main > div > div.scaffold-layout__list-detail-inner.scaffold-layout__list-detail-inner--grow > div.scaffold-layout__list > div"))
         )
         for _ in range(max_scrolls):
             driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", scrollable_div)
@@ -47,6 +48,7 @@ def scroll_inside_job_list(driver, max_scrolls=15):
 
 # === Go through pagination ===
 def scrape_all_pages(driver, writer, seen_links):
+    retry_count = 0
     while True:
         scroll_inside_job_list(driver)
         job_cards = driver.find_elements(By.CSS_SELECTOR, "div.job-card-container")
@@ -54,7 +56,7 @@ def scrape_all_pages(driver, writer, seen_links):
 
         for job in job_cards:
             try:
-                title_element = job.find_element(By.CSS_SELECTOR, "a.job-card-list__title--link")
+                title_element = job.find_element(By.XPATH, ".//a[contains(@class, 'job-card-list__title')]")
                 company_element = job.find_element(By.CSS_SELECTOR, "div.artdeco-entity-lockup__subtitle span")
                 link = title_element.get_attribute("href")
 
@@ -74,20 +76,25 @@ def scrape_all_pages(driver, writer, seen_links):
         try:
             next_button = driver.find_element(By.CSS_SELECTOR, 'button[aria-label="View next page"]')
             if next_button.is_enabled():
-                prev_url = driver.current_url
                 driver.execute_script("arguments[0].click();", next_button)
-
-                WebDriverWait(driver, 20).until(
-                    lambda d: d.current_url != prev_url
+                WebDriverWait(driver, 15).until_not(
+                    EC.presence_of_element_located((By.CLASS_NAME, "artdeco-spinner"))
                 )
-                WebDriverWait(driver, 20).until_not(
-                    EC.presence_of_element_located((By.CLASS_NAME, "artdeco-loader"))
+                WebDriverWait(driver, 15).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "job-card-container"))
                 )
+                retry_count = 0
                 time.sleep(2)
             else:
                 break
-        except:
-            break
+        except Exception as e:
+            retry_count += 1
+            print(f"⚠️ Error loading next page (attempt {retry_count}/3):", e)
+            if retry_count >= 3:
+                print("❌ Too many errors. Stopping scrape.")
+                return
+            time.sleep(5)
+            driver.refresh()
 
 # === Set up browser ===
 service = Service(executable_path=CHROME_DRIVER_PATH)
@@ -125,24 +132,14 @@ with open("linkedin_jobs.csv", "w", newline='', encoding="utf-8") as csvfile:
         print(f"\n🌐 Navigating to: {url}")
         driver.get(url)
 
-        success = False
-        for attempt in range(3):
-            try:
-                WebDriverWait(driver, 20).until(
-                    EC.presence_of_element_located((By.CLASS_NAME, "job-card-container"))
-                )
-                print("✅ Job cards detected. Beginning scroll and pagination...")
-                scrape_all_pages(driver, writer, seen_links)
-                success = True
-                break
-            except TimeoutException:
-                print(f"⚠️ Attempt {attempt + 1} failed. Retrying in 8s...")
-                time.sleep(8)
-                driver.refresh()
-
-        if not success:
-            print("❌ Failed to load jobs after 3 attempts. Exiting script.")
-            driver.quit()
-            sys.exit()
+        try:
+            WebDriverWait(driver, 20).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "job-card-container"))
+            )
+            print("✅ Job cards detected. Beginning scroll and pagination...")
+            scrape_all_pages(driver, writer, seen_links)
+        except:
+            print("❌ No job cards found at this URL.")
+            continue
 
 driver.quit()
