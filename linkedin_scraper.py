@@ -1,6 +1,5 @@
 ﻿import time
 import random
-import csv
 from datetime import datetime, timedelta
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -11,8 +10,8 @@ from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
 # === CONFIGURATION ===
-CHROME_DRIVER_PATH = r"C:\Users\Danag\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
-CHROME_PROFILE_PATH = r"C:\Users\Danag\Downloads\chromedriver-win64\linkedin_automation_profile"
+CHROME_DRIVER_PATH = r"C:\\Users\\Danag\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe"
+CHROME_PROFILE_PATH = r"C:\\Users\\Danag\\Downloads\\chromedriver-win64\\linkedin_automation_profile"
 LINKEDIN_SEARCH_URLS = [
     "https://www.linkedin.com/jobs/search/?keywords=automation%20student&location=Israel",
     "https://www.linkedin.com/jobs/search/?keywords=integration%20student&location=Israel",
@@ -21,18 +20,55 @@ LINKEDIN_SEARCH_URLS = [
     "https://www.linkedin.com/jobs/search/?keywords=developer%20part%20time&location=Israel",
     "https://www.linkedin.com/jobs/search/?keywords=fullstack%20student&location=Israel"
 ]
+SPREADSHEET_ID = "12KqzusLQn9lubHIEPgDa7b2fkFjo0fyVco0oPbVJxLw"
+SHEET_NAME = "גיליון1"
+CREDS_PATH = r"C:\\Users\\Danag\\Downloads\\chromedriver-win64\\job-hunting-automation-461510-e991504f4f81.json"
 
 # === Filter function ===
 def is_relevant(title: str, company: str, link: str) -> bool:
     text = f"{title.lower()} {company.lower()} {link.lower()}"
     relaxed_keywords = ["student", "intern", "part time", "חלקית", "סטודנט", "junior", "entry level"]
     dev_keywords = ["developer", "software", "backend", "fullstack", "automation", "integration", "engineer", "פיתוח"]
-    forbidden = ["senior", "lead", "manager", "architect", "מנהל", "ראש צוות", "full time", "משרה מלאה"]
+    forbidden = ["senior", "lead", "manager", "architect", "מנהל", "ראש צוות", "צפון", "haifa", "nahariya", "kiryat", "afula"]
 
-    return (
-        (any(word in text for word in relaxed_keywords) or any(word in text for word in dev_keywords))
-        and not any(word in text for word in forbidden)
-    )
+    relevant_score = sum(word in text for word in relaxed_keywords) + sum(word in text for word in dev_keywords)
+    is_blocked = any(word in text for word in forbidden)
+
+    return relevant_score >= 2 and not is_blocked
+
+# === Google Sheets Setup ===
+def append_jobs_to_google_sheet(jobs):
+    creds = Credentials.from_service_account_file(CREDS_PATH, scopes=["https://www.googleapis.com/auth/spreadsheets"])
+    service = build("sheets", "v4", credentials=creds)
+    sheet = service.spreadsheets()
+
+    existing = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=f"{SHEET_NAME}!A2:D").execute().get("values", [])
+    existing_links = set(row[2] for row in existing if len(row) > 2)
+
+    today = datetime.now()
+    new_existing = [row for row in existing if len(row) < 4 or (today - datetime.strptime(row[3], "%Y-%m-%d")).days <= 21]
+    sheet.values().clear(spreadsheetId=SPREADSHEET_ID, range=f"{SHEET_NAME}!A2:D").execute()
+    if new_existing:
+        sheet.values().append(
+            spreadsheetId=SPREADSHEET_ID,
+            range=f"{SHEET_NAME}!A2",
+            valueInputOption="RAW",
+            body={"values": new_existing}
+        ).execute()
+
+    rows_to_add = []
+    for job in jobs:
+        if job[2] not in existing_links:
+            print(f"✅ Added to sheet: {job[0]} – {job[1]}")
+            rows_to_add.append(job + [today.strftime("%Y-%m-%d")])
+
+    if rows_to_add:
+        sheet.values().append(
+            spreadsheetId=SPREADSHEET_ID,
+            range=f"{SHEET_NAME}!A1",
+            valueInputOption="RAW",
+            body={"values": rows_to_add}
+        ).execute()
 
 # === Scroll inside job list container ===
 def scroll_inside_job_list(driver, max_scrolls=15):
@@ -42,104 +78,68 @@ def scroll_inside_job_list(driver, max_scrolls=15):
         )
         for _ in range(max_scrolls):
             driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", scrollable_div)
-            time.sleep(random.uniform(1.2, 1.8))
+            time.sleep(random.uniform(0.6, 1.0))
     except Exception as e:
-        print("⚠️ Failed to scroll inside job list:", e)
+        pass
 
-# === Go through pagination ===
-def scrape_all_pages(driver, writer, seen_links):
-    retry_count = 0
-    while True:
+# === Scrape multiple pages ===
+def scrape_pages(driver):
+    all_jobs = []
+    pages_scraped = 0
+    max_pages = 5
+
+    while pages_scraped < max_pages:
         scroll_inside_job_list(driver)
         job_cards = driver.find_elements(By.CSS_SELECTOR, "div.job-card-container")
-        print(f"🔎 Found {len(job_cards)} job cards")
-
         for job in job_cards:
             try:
                 title_element = job.find_element(By.XPATH, ".//a[contains(@class, 'job-card-list__title')]")
                 company_element = job.find_element(By.CSS_SELECTOR, "div.artdeco-entity-lockup__subtitle span")
                 link = title_element.get_attribute("href")
-
-                if link in seen_links:
-                    continue
-
                 title = title_element.text.strip()
                 company = company_element.text.strip()
-
                 if is_relevant(title, company, link):
-                    print(f"🔹 {title} – {company}\n🔗 {link}\n")
-                    writer.writerow([title, company, link])
-                    seen_links.add(link)
-            except Exception as e:
-                print("⚠️ Failed to extract job info:", e)
+                    all_jobs.append([title, company, link])
+            except:
+                continue
 
         try:
             next_button = driver.find_element(By.CSS_SELECTOR, 'button[aria-label="View next page"]')
             if next_button.is_enabled():
                 driver.execute_script("arguments[0].click();", next_button)
-                WebDriverWait(driver, 15).until_not(
-                    EC.presence_of_element_located((By.CLASS_NAME, "artdeco-spinner"))
-                )
-                WebDriverWait(driver, 15).until(
+                WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.CLASS_NAME, "job-card-container"))
                 )
-                retry_count = 0
+                pages_scraped += 1
                 time.sleep(2)
             else:
                 break
-        except Exception as e:
-            retry_count += 1
-            print(f"⚠️ Error loading next page (attempt {retry_count}/3):", e)
-            if retry_count >= 3:
-                print("❌ Too many errors. Stopping scrape.")
-                return
-            time.sleep(5)
-            driver.refresh()
-
-# === Set up browser ===
-service = Service(executable_path=CHROME_DRIVER_PATH)
-options = webdriver.ChromeOptions()
-options.add_argument(f"--user-data-dir={CHROME_PROFILE_PATH}")
-options.add_argument("--start-maximized")
-options.add_argument("--disable-blink-features=AutomationControlled")
-options.add_argument("--no-first-run")
-options.add_argument("--no-default-browser-check")
-options.add_argument("--disable-features=ChromeWhatsNewUI")
-
-driver = webdriver.Chrome(service=service, options=options)
-
-# === Open LinkedIn and wait for login session ===
-print("🌐 Opening browser and checking login status...")
-driver.get("https://www.linkedin.com")
-
-try:
-    WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.ID, "global-nav-search"))
-    )
-    print("✅ Logged in successfully")
-except:
-    print("❌ Could not confirm login. Exiting.")
-    driver.quit()
-    exit()
-
-# === Prepare CSV file and seen links ===
-seen_links = set()
-with open("linkedin_jobs.csv", "w", newline='', encoding="utf-8") as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(["Title", "Company", "Link"])
-
-    for url in LINKEDIN_SEARCH_URLS:
-        print(f"\n🌐 Navigating to: {url}")
-        driver.get(url)
-
-        try:
-            WebDriverWait(driver, 20).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "job-card-container"))
-            )
-            print("✅ Job cards detected. Beginning scroll and pagination...")
-            scrape_all_pages(driver, writer, seen_links)
         except:
-            print("❌ No job cards found at this URL.")
+            break
+
+    return all_jobs
+
+# === Main ===
+def run():
+    service = Service(executable_path=CHROME_DRIVER_PATH)
+    options = webdriver.ChromeOptions()
+    options.add_argument(f"--user-data-dir={CHROME_PROFILE_PATH}")
+    options.add_argument("--start-maximized")
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    driver = webdriver.Chrome(service=service, options=options)
+
+    all_results = []
+    for url in LINKEDIN_SEARCH_URLS:
+        driver.get(url)
+        try:
+            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS_NAME, "job-card-container")))
+            jobs = scrape_pages(driver)
+            all_results.extend(jobs)
+        except:
             continue
 
-driver.quit()
+    append_jobs_to_google_sheet(all_results)
+    driver.quit()
+
+if __name__ == "__main__":
+    run()
